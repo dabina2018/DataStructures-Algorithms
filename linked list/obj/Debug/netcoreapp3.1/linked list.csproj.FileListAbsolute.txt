@@ -1,0 +1,13 @@
+C:\Users\dabina2018\Documents\code\DataStructures-Algorithms\linked list\bin\Debug\netcoreapp3.1\linked list.exe
+C:\Users\dabina2018\Documents\code\DataStructures-Algorithms\linked list\bin\Debug\netcoreapp3.1\linked list.deps.json
+C:\Users\dabina2018\Documents\code\DataStructures-Algorithms\linked list\bin\Debug\netcoreapp3.1\linked list.runtimeconfig.json
+C:\Users\dabina2018\Documents\code\DataStructures-Algorithms\linked list\bin\Debug\netcoreapp3.1\linked list.runtimeconfig.dev.json
+C:\Users\dabina2018\Documents\code\DataStructures-Algorithms\linked list\bin\Debug\netcoreapp3.1\linked list.dll
+C:\Users\dabina2018\Documents\code\DataStructures-Algorithms\linked list\bin\Debug\netcoreapp3.1\linked list.pdb
+C:\Users\dabina2018\Documents\code\DataStructures-Algorithms\linked list\obj\Debug\netcoreapp3.1\linked list.csprojAssemblyReference.cache
+C:\Users\dabina2018\Documents\code\DataStructures-Algorithms\linked list\obj\Debug\netcoreapp3.1\linked list.csproj.CoreCompileInputs.cache
+C:\Users\dabina2018\Documents\code\DataStructures-Algorithms\linked list\obj\Debug\netcoreapp3.1\linked list.AssemblyInfoInputs.cache
+C:\Users\dabina2018\Documents\code\DataStructures-Algorithms\linked list\obj\Debug\netcoreapp3.1\linked list.AssemblyInfo.cs
+C:\Users\dabina2018\Documents\code\DataStructures-Algorithms\linked list\obj\Debug\netcoreapp3.1\linked list.dll
+C:\Users\dabina2018\Documents\code\DataStructures-Algorithms\linked list\obj\Debug\netcoreapp3.1\linked list.pdb
+C:\Users\dabina2018\Documents\code\DataStructures-Algorithms\linked list\obj\Debug\netcoreapp3.1\linked list.genruntimeconfig.cache
