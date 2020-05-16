@@ -162,8 +162,6 @@ namespace linked_list
                 temp = temp.Next;
                 pointer.Next = temp;
             }
-           
-
         }
 
         public void Reverse()
@@ -187,7 +185,6 @@ namespace linked_list
                     Console.Write(pointer.Value + ", ");
                     pointer = pointer.Next;
                 }
-                
             }
         }
 
