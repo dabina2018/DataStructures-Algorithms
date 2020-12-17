@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\Review\BranchSums_Prob\obj\Debug\netcoreapp3.1\BranchSums_Prob.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\Review\BranchSums_Prob\obj\Debug\netcoreapp3.1\BranchSums_Prob.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\Review\BranchSums_Prob\obj\Debug\netcoreapp3.1\BranchSums_Prob.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\Review\BranchSums_Prob\obj\Debug\netcoreapp3.1\BranchSums_Prob.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\Review\BranchSums_Prob\bin\Debug\netcoreapp3.1\BranchSums_Prob.exe
+C:\Users\davee\OneDrive\Documents\code\Review\BranchSums_Prob\bin\Debug\netcoreapp3.1\BranchSums_Prob.deps.json
+C:\Users\davee\OneDrive\Documents\code\Review\BranchSums_Prob\bin\Debug\netcoreapp3.1\BranchSums_Prob.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\Review\BranchSums_Prob\bin\Debug\netcoreapp3.1\BranchSums_Prob.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\Review\BranchSums_Prob\bin\Debug\netcoreapp3.1\BranchSums_Prob.dll
+C:\Users\davee\OneDrive\Documents\code\Review\BranchSums_Prob\bin\Debug\netcoreapp3.1\BranchSums_Prob.pdb
+C:\Users\davee\OneDrive\Documents\code\Review\BranchSums_Prob\obj\Debug\netcoreapp3.1\BranchSums_Prob.dll
+C:\Users\davee\OneDrive\Documents\code\Review\BranchSums_Prob\obj\Debug\netcoreapp3.1\BranchSums_Prob.pdb
+C:\Users\davee\OneDrive\Documents\code\Review\BranchSums_Prob\obj\Debug\netcoreapp3.1\BranchSums_Prob.genruntimeconfig.cache

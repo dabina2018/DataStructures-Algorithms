@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\TwoNumberSum\TwoNumberSum\obj\Debug\netcoreapp3.1\TwoNumberSum.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\TwoNumberSum\TwoNumberSum\obj\Debug\netcoreapp3.1\TwoNumberSum.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\TwoNumberSum\TwoNumberSum\obj\Debug\netcoreapp3.1\TwoNumberSum.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\TwoNumberSum\TwoNumberSum\obj\Debug\netcoreapp3.1\TwoNumberSum.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\TwoNumberSum\TwoNumberSum\bin\Debug\netcoreapp3.1\TwoNumberSum.exe
+C:\Users\davee\OneDrive\Documents\code\TwoNumberSum\TwoNumberSum\bin\Debug\netcoreapp3.1\TwoNumberSum.deps.json
+C:\Users\davee\OneDrive\Documents\code\TwoNumberSum\TwoNumberSum\bin\Debug\netcoreapp3.1\TwoNumberSum.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\TwoNumberSum\TwoNumberSum\bin\Debug\netcoreapp3.1\TwoNumberSum.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\TwoNumberSum\TwoNumberSum\bin\Debug\netcoreapp3.1\TwoNumberSum.dll
+C:\Users\davee\OneDrive\Documents\code\TwoNumberSum\TwoNumberSum\bin\Debug\netcoreapp3.1\TwoNumberSum.pdb
+C:\Users\davee\OneDrive\Documents\code\TwoNumberSum\TwoNumberSum\obj\Debug\netcoreapp3.1\TwoNumberSum.dll
+C:\Users\davee\OneDrive\Documents\code\TwoNumberSum\TwoNumberSum\obj\Debug\netcoreapp3.1\TwoNumberSum.pdb
+C:\Users\davee\OneDrive\Documents\code\TwoNumberSum\TwoNumberSum\obj\Debug\netcoreapp3.1\TwoNumberSum.genruntimeconfig.cache

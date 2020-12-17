@@ -1,0 +1,13 @@
+C:\Users\davee\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTableEx.exe
+C:\Users\davee\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTableEx.deps.json
+C:\Users\davee\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTableEx.runtimeconfig.json
+C:\Users\davee\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTableEx.runtimeconfig.dev.json
+C:\Users\davee\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTableEx.dll
+C:\Users\davee\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.1\HashTableEx.pdb
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTableEx.csprojAssemblyReference.cache
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTableEx.AssemblyInfoInputs.cache
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTableEx.AssemblyInfo.cs
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTableEx.csproj.CoreCompileInputs.cache
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTableEx.dll
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTableEx.pdb
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\HashTableEx.genruntimeconfig.cache

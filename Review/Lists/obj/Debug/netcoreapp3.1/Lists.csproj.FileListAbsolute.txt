@@ -1,0 +1,4 @@
+C:\Users\davee\OneDrive\Documents\code\Review\Lists\obj\Debug\netcoreapp3.1\Lists.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\Review\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\Review\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\Review\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.CoreCompileInputs.cache

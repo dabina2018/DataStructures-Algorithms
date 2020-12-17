@@ -1,0 +1,13 @@
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\DS Review.csprojAssemblyReference.cache
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\DS Review.AssemblyInfoInputs.cache
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\DS Review.AssemblyInfo.cs
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\DS Review.csproj.CoreCompileInputs.cache
+C:\Users\davee\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.1\DS Review.exe
+C:\Users\davee\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.1\DS Review.deps.json
+C:\Users\davee\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.1\DS Review.runtimeconfig.json
+C:\Users\davee\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.1\DS Review.runtimeconfig.dev.json
+C:\Users\davee\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.1\DS Review.dll
+C:\Users\davee\source\repos\HashTable\HashTable\bin\Debug\netcoreapp3.1\DS Review.pdb
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\DS Review.dll
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\DS Review.pdb
+C:\Users\davee\source\repos\HashTable\HashTable\obj\Debug\netcoreapp3.1\DS Review.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7AACA632-B7DE-4617-991B-A6554509F4C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchSums_Prob", "BranchSums_Prob\BranchSums_Prob.csproj", "{1B249965-4BFD-4507-829C-1F7A4B099133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B249965-4BFD-4507-829C-1F7A4B099133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B249965-4BFD-4507-829C-1F7A4B099133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B249965-4BFD-4507-829C-1F7A4B099133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B249965-4BFD-4507-829C-1F7A4B099133}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE53758-7F89-4711-B716-DC0C32B2D9CA}
+	EndGlobalSection
+EndGlobal

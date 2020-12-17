@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\InterviewPrep\InterviewPrep\bin\Debug\netcoreapp3.1\InterviewPrep.exe
+C:\Users\davee\OneDrive\Documents\code\InterviewPrep\InterviewPrep\bin\Debug\netcoreapp3.1\InterviewPrep.deps.json
+C:\Users\davee\OneDrive\Documents\code\InterviewPrep\InterviewPrep\bin\Debug\netcoreapp3.1\InterviewPrep.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\InterviewPrep\InterviewPrep\bin\Debug\netcoreapp3.1\InterviewPrep.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\InterviewPrep\InterviewPrep\bin\Debug\netcoreapp3.1\InterviewPrep.dll
+C:\Users\davee\OneDrive\Documents\code\InterviewPrep\InterviewPrep\bin\Debug\netcoreapp3.1\InterviewPrep.pdb
+C:\Users\davee\OneDrive\Documents\code\InterviewPrep\InterviewPrep\obj\Debug\netcoreapp3.1\InterviewPrep.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\InterviewPrep\InterviewPrep\obj\Debug\netcoreapp3.1\InterviewPrep.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\InterviewPrep\InterviewPrep\obj\Debug\netcoreapp3.1\InterviewPrep.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\InterviewPrep\InterviewPrep\obj\Debug\netcoreapp3.1\InterviewPrep.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\InterviewPrep\InterviewPrep\obj\Debug\netcoreapp3.1\InterviewPrep.dll
+C:\Users\davee\OneDrive\Documents\code\InterviewPrep\InterviewPrep\obj\Debug\netcoreapp3.1\InterviewPrep.pdb
+C:\Users\davee\OneDrive\Documents\code\InterviewPrep\InterviewPrep\obj\Debug\netcoreapp3.1\InterviewPrep.genruntimeconfig.cache

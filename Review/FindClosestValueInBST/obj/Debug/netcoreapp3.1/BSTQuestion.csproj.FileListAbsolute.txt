@@ -1,0 +1,13 @@
+C:\Users\davee\source\repos\Review\FindClosestValueInBST\bin\Debug\netcoreapp3.1\BSTQuestion.exe
+C:\Users\davee\source\repos\Review\FindClosestValueInBST\bin\Debug\netcoreapp3.1\BSTQuestion.deps.json
+C:\Users\davee\source\repos\Review\FindClosestValueInBST\bin\Debug\netcoreapp3.1\BSTQuestion.runtimeconfig.json
+C:\Users\davee\source\repos\Review\FindClosestValueInBST\bin\Debug\netcoreapp3.1\BSTQuestion.runtimeconfig.dev.json
+C:\Users\davee\source\repos\Review\FindClosestValueInBST\bin\Debug\netcoreapp3.1\BSTQuestion.dll
+C:\Users\davee\source\repos\Review\FindClosestValueInBST\bin\Debug\netcoreapp3.1\BSTQuestion.pdb
+C:\Users\davee\source\repos\Review\FindClosestValueInBST\obj\Debug\netcoreapp3.1\BSTQuestion.csprojAssemblyReference.cache
+C:\Users\davee\source\repos\Review\FindClosestValueInBST\obj\Debug\netcoreapp3.1\BSTQuestion.AssemblyInfoInputs.cache
+C:\Users\davee\source\repos\Review\FindClosestValueInBST\obj\Debug\netcoreapp3.1\BSTQuestion.AssemblyInfo.cs
+C:\Users\davee\source\repos\Review\FindClosestValueInBST\obj\Debug\netcoreapp3.1\BSTQuestion.csproj.CoreCompileInputs.cache
+C:\Users\davee\source\repos\Review\FindClosestValueInBST\obj\Debug\netcoreapp3.1\BSTQuestion.dll
+C:\Users\davee\source\repos\Review\FindClosestValueInBST\obj\Debug\netcoreapp3.1\BSTQuestion.pdb
+C:\Users\davee\source\repos\Review\FindClosestValueInBST\obj\Debug\netcoreapp3.1\BSTQuestion.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\Review\SimpleClass\bin\Debug\netcoreapp3.1\SimpleClass.exe
+C:\Users\davee\OneDrive\Documents\code\Review\SimpleClass\bin\Debug\netcoreapp3.1\SimpleClass.deps.json
+C:\Users\davee\OneDrive\Documents\code\Review\SimpleClass\bin\Debug\netcoreapp3.1\SimpleClass.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\Review\SimpleClass\bin\Debug\netcoreapp3.1\SimpleClass.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\Review\SimpleClass\bin\Debug\netcoreapp3.1\SimpleClass.dll
+C:\Users\davee\OneDrive\Documents\code\Review\SimpleClass\bin\Debug\netcoreapp3.1\SimpleClass.pdb
+C:\Users\davee\OneDrive\Documents\code\Review\SimpleClass\obj\Debug\netcoreapp3.1\SimpleClass.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\Review\SimpleClass\obj\Debug\netcoreapp3.1\SimpleClass.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\Review\SimpleClass\obj\Debug\netcoreapp3.1\SimpleClass.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\Review\SimpleClass\obj\Debug\netcoreapp3.1\SimpleClass.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\Review\SimpleClass\obj\Debug\netcoreapp3.1\SimpleClass.dll
+C:\Users\davee\OneDrive\Documents\code\Review\SimpleClass\obj\Debug\netcoreapp3.1\SimpleClass.pdb
+C:\Users\davee\OneDrive\Documents\code\Review\SimpleClass\obj\Debug\netcoreapp3.1\SimpleClass.genruntimeconfig.cache
