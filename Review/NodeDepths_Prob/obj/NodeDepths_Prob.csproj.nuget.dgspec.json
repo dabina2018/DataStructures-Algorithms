@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\BranchSums_Prob\\BranchSums_Prob.csproj": {}
+    "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\NodeDepths_Prob\\NodeDepths_Prob.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\BranchSums_Prob\\BranchSums_Prob.csproj": {
+    "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\NodeDepths_Prob\\NodeDepths_Prob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\BranchSums_Prob\\BranchSums_Prob.csproj",
-        "projectName": "BranchSums_Prob",
-        "projectPath": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\BranchSums_Prob\\BranchSums_Prob.csproj",
+        "projectUniqueName": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\NodeDepths_Prob\\NodeDepths_Prob.csproj",
+        "projectName": "NodeDepths_Prob",
+        "projectPath": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\NodeDepths_Prob\\NodeDepths_Prob.csproj",
         "packagesPath": "C:\\Users\\davee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\BranchSums_Prob\\obj\\",
+        "outputPath": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\NodeDepths_Prob\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\davee\\AppData\\Roaming\\NuGet\\NuGet.Config",

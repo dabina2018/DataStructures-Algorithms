@@ -26,47 +26,47 @@ namespace BranchSums_Prob
 			tree.left.left.left = new BinaryTree(8);
 			tree.left.left.right = new BinaryTree(9);
 			tree.left.right.left = new BinaryTree(10);
+			
+			//////////////////////////////////////////////
+			BinaryTree treet = new BinaryTree(0);
 
-            Console.WriteLine(BranchSums(tree));
-        }
+			treet.left = new BinaryTree(9);
+			treet.right = new BinaryTree(1);
+
+			treet.right.left = new BinaryTree(15);
+			treet.right.right = new BinaryTree(10);
+
+			treet.right.right.right = new BinaryTree(200);
+			treet.right.right.left = new BinaryTree(100);
+
+			Console.WriteLine(BranchSums(tree));
+			//Console.WriteLine(BranchSums(treet));
+		}
 
 		public static List<int> BranchSums(BinaryTree root)
 		{
 			// Write your code here.
-			
-			Queue sumNodePair = new Queue();
-			sumNodePair.Enqueue(new KeyValuePair<int, BinaryTree>(root.value, root));
-			var next = new KeyValuePair<int, BinaryTree>();
-
-			while (sumNodePair.Count != 0)
-            {
-				next = (KeyValuePair<int, BinaryTree>)sumNodePair.Dequeue();
-				FindSum(next, sumNodePair);
-			}
-			return new List<int>();
+			List<int> branchSums = new List<int>();
+			FindSums(root, 0, branchSums);
+			return branchSums;
 		}
-		public static void FindSum(KeyValuePair<int,BinaryTree> valuePair, Queue queue)
+		public static void FindSums(BinaryTree node, int runningSum, List<int> branchSums)
 		{
-			//var sumNodePair = new List<KeyValuePair<int, BinaryTree>>();
-			int Rsum = valuePair.Key; int Lsum = valuePair.Key;
-			BinaryTree node = valuePair.Value;
-			//Queue sumNodePair = new Queue();
-			//FindSum(sumNodePair.Dequeue);
-			            
+			if (node != null)
+			{
+				runningSum = runningSum + node.value;
+				if (node.left == null && node.right == null)
+				{
+					branchSums.Add(runningSum);
+					return;
+				}
+				FindSums(node.left, runningSum, branchSums);
+				FindSums(node.right, runningSum, branchSums);
 
-			if (node.right != null)
-			{
-				Rsum = valuePair.Key + node.right.value;
-				queue.Enqueue(new KeyValuePair<int, BinaryTree>(Rsum, node.right));
 			}
-			if (node.left != null)
-			{
-				Lsum = valuePair.Key + node.left.value;
-				queue.Enqueue(new KeyValuePair<int, BinaryTree>(Lsum, node.left));
-			}
-			
-			
+			else return;
 		}
+		
 
 		public class BinaryTree
 		{
