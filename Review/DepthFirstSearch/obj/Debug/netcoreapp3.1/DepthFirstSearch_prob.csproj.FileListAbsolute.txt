@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\DepthFirstSearch\bin\Debug\netcoreapp3.1\DepthFirstSearch_prob.exe
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\DepthFirstSearch\bin\Debug\netcoreapp3.1\DepthFirstSearch_prob.deps.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\DepthFirstSearch\bin\Debug\netcoreapp3.1\DepthFirstSearch_prob.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\DepthFirstSearch\bin\Debug\netcoreapp3.1\DepthFirstSearch_prob.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\DepthFirstSearch\bin\Debug\netcoreapp3.1\DepthFirstSearch_prob.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\DepthFirstSearch\bin\Debug\netcoreapp3.1\DepthFirstSearch_prob.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\DepthFirstSearch\obj\Debug\netcoreapp3.1\DepthFirstSearch_prob.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\DepthFirstSearch\obj\Debug\netcoreapp3.1\DepthFirstSearch_prob.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\DepthFirstSearch\obj\Debug\netcoreapp3.1\DepthFirstSearch_prob.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\DepthFirstSearch\obj\Debug\netcoreapp3.1\DepthFirstSearch_prob.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\DepthFirstSearch\obj\Debug\netcoreapp3.1\DepthFirstSearch_prob.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\DepthFirstSearch\obj\Debug\netcoreapp3.1\DepthFirstSearch_prob.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\DepthFirstSearch\obj\Debug\netcoreapp3.1\DepthFirstSearch_prob.genruntimeconfig.cache

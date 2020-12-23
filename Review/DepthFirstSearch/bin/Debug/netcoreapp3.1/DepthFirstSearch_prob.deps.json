@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DepthFirstSearch_prob/1.0.0": {
+        "runtime": {
+          "DepthFirstSearch_prob.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DepthFirstSearch_prob/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
