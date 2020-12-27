@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ProductSum\bin\Debug\netcoreapp3.1\ProductSum.exe
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ProductSum\bin\Debug\netcoreapp3.1\ProductSum.deps.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ProductSum\bin\Debug\netcoreapp3.1\ProductSum.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ProductSum\bin\Debug\netcoreapp3.1\ProductSum.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ProductSum\bin\Debug\netcoreapp3.1\ProductSum.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ProductSum\bin\Debug\netcoreapp3.1\ProductSum.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ProductSum\obj\Debug\netcoreapp3.1\ProductSum.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ProductSum\obj\Debug\netcoreapp3.1\ProductSum.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ProductSum\obj\Debug\netcoreapp3.1\ProductSum.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ProductSum\obj\Debug\netcoreapp3.1\ProductSum.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ProductSum\obj\Debug\netcoreapp3.1\ProductSum.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ProductSum\obj\Debug\netcoreapp3.1\ProductSum.genruntimeconfig.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ProductSum\obj\Debug\netcoreapp3.1\ProductSum.csproj.CoreCompileInputs.cache

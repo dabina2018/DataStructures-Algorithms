@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\NthFibonacci\bin\Debug\netcoreapp3.1\NthFibonacci.exe
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\NthFibonacci\bin\Debug\netcoreapp3.1\NthFibonacci.deps.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\NthFibonacci\bin\Debug\netcoreapp3.1\NthFibonacci.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\NthFibonacci\bin\Debug\netcoreapp3.1\NthFibonacci.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\NthFibonacci\bin\Debug\netcoreapp3.1\NthFibonacci.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\NthFibonacci\bin\Debug\netcoreapp3.1\NthFibonacci.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\NthFibonacci\obj\Debug\netcoreapp3.1\NthFibonacci.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\NthFibonacci\obj\Debug\netcoreapp3.1\NthFibonacci.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\NthFibonacci\obj\Debug\netcoreapp3.1\NthFibonacci.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\NthFibonacci\obj\Debug\netcoreapp3.1\NthFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\NthFibonacci\obj\Debug\netcoreapp3.1\NthFibonacci.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\NthFibonacci\obj\Debug\netcoreapp3.1\NthFibonacci.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\NthFibonacci\obj\Debug\netcoreapp3.1\NthFibonacci.genruntimeconfig.cache
