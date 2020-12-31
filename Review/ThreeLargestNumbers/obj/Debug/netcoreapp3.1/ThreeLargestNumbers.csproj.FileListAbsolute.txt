@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeLargestNumbers\bin\Debug\netcoreapp3.1\ThreeLargestNumbers.exe
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeLargestNumbers\bin\Debug\netcoreapp3.1\ThreeLargestNumbers.deps.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeLargestNumbers\bin\Debug\netcoreapp3.1\ThreeLargestNumbers.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeLargestNumbers\bin\Debug\netcoreapp3.1\ThreeLargestNumbers.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeLargestNumbers\bin\Debug\netcoreapp3.1\ThreeLargestNumbers.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeLargestNumbers\bin\Debug\netcoreapp3.1\ThreeLargestNumbers.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeLargestNumbers\obj\Debug\netcoreapp3.1\ThreeLargestNumbers.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeLargestNumbers\obj\Debug\netcoreapp3.1\ThreeLargestNumbers.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeLargestNumbers\obj\Debug\netcoreapp3.1\ThreeLargestNumbers.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeLargestNumbers\obj\Debug\netcoreapp3.1\ThreeLargestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeLargestNumbers\obj\Debug\netcoreapp3.1\ThreeLargestNumbers.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeLargestNumbers\obj\Debug\netcoreapp3.1\ThreeLargestNumbers.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeLargestNumbers\obj\Debug\netcoreapp3.1\ThreeLargestNumbers.genruntimeconfig.cache

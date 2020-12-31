@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\BinarySearch_Prob\bin\Debug\netcoreapp3.1\BinarySearch_Prob.exe
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\BinarySearch_Prob\bin\Debug\netcoreapp3.1\BinarySearch_Prob.deps.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\BinarySearch_Prob\bin\Debug\netcoreapp3.1\BinarySearch_Prob.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\BinarySearch_Prob\bin\Debug\netcoreapp3.1\BinarySearch_Prob.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\BinarySearch_Prob\bin\Debug\netcoreapp3.1\BinarySearch_Prob.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\BinarySearch_Prob\bin\Debug\netcoreapp3.1\BinarySearch_Prob.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\BinarySearch_Prob\obj\Debug\netcoreapp3.1\BinarySearch_Prob.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\BinarySearch_Prob\obj\Debug\netcoreapp3.1\BinarySearch_Prob.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\BinarySearch_Prob\obj\Debug\netcoreapp3.1\BinarySearch_Prob.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\BinarySearch_Prob\obj\Debug\netcoreapp3.1\BinarySearch_Prob.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\BinarySearch_Prob\obj\Debug\netcoreapp3.1\BinarySearch_Prob.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\BinarySearch_Prob\obj\Debug\netcoreapp3.1\BinarySearch_Prob.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\BinarySearch_Prob\obj\Debug\netcoreapp3.1\BinarySearch_Prob.genruntimeconfig.cache
