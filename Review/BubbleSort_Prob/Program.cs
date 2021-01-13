@@ -44,7 +44,7 @@ namespace BubbleSort_Prob
             {
                 rtrArray[index] = num;
                 ShiftArray(rtrArray, index);
-                index += 1;
+                index += 1;  
             }
             */
             int index = 0;

@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SelectionSort_Prob\bin\Debug\netcoreapp3.1\SelectionSort_Prob.exe
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SelectionSort_Prob\bin\Debug\netcoreapp3.1\SelectionSort_Prob.deps.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SelectionSort_Prob\bin\Debug\netcoreapp3.1\SelectionSort_Prob.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SelectionSort_Prob\bin\Debug\netcoreapp3.1\SelectionSort_Prob.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SelectionSort_Prob\bin\Debug\netcoreapp3.1\SelectionSort_Prob.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SelectionSort_Prob\bin\Debug\netcoreapp3.1\SelectionSort_Prob.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SelectionSort_Prob\obj\Debug\netcoreapp3.1\SelectionSort_Prob.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SelectionSort_Prob\obj\Debug\netcoreapp3.1\SelectionSort_Prob.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SelectionSort_Prob\obj\Debug\netcoreapp3.1\SelectionSort_Prob.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SelectionSort_Prob\obj\Debug\netcoreapp3.1\SelectionSort_Prob.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SelectionSort_Prob\obj\Debug\netcoreapp3.1\SelectionSort_Prob.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SelectionSort_Prob\obj\Debug\netcoreapp3.1\SelectionSort_Prob.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SelectionSort_Prob\obj\Debug\netcoreapp3.1\SelectionSort_Prob.genruntimeconfig.cache
