@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\SelectionSort_Prob\\SelectionSort_Prob.csproj": {}
+    "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\MinimumWaitingTimeProb\\MinimumWaitingTimeProb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\SelectionSort_Prob\\SelectionSort_Prob.csproj": {
+    "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\MinimumWaitingTimeProb\\MinimumWaitingTimeProb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\SelectionSort_Prob\\SelectionSort_Prob.csproj",
-        "projectName": "SelectionSort_Prob",
-        "projectPath": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\SelectionSort_Prob\\SelectionSort_Prob.csproj",
+        "projectUniqueName": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\MinimumWaitingTimeProb\\MinimumWaitingTimeProb.csproj",
+        "projectName": "MinimumWaitingTimeProb",
+        "projectPath": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\MinimumWaitingTimeProb\\MinimumWaitingTimeProb.csproj",
         "packagesPath": "C:\\Users\\davee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\SelectionSort_Prob\\obj\\",
+        "outputPath": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\MinimumWaitingTimeProb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\davee\\AppData\\Roaming\\NuGet\\NuGet.Config",
