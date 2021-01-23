@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\MinimumWaitingTimeProb\bin\Debug\netcoreapp3.1\MinimumWaitingTimeProb.exe
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\MinimumWaitingTimeProb\bin\Debug\netcoreapp3.1\MinimumWaitingTimeProb.deps.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\MinimumWaitingTimeProb\bin\Debug\netcoreapp3.1\MinimumWaitingTimeProb.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\MinimumWaitingTimeProb\bin\Debug\netcoreapp3.1\MinimumWaitingTimeProb.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\MinimumWaitingTimeProb\bin\Debug\netcoreapp3.1\MinimumWaitingTimeProb.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\MinimumWaitingTimeProb\bin\Debug\netcoreapp3.1\MinimumWaitingTimeProb.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\MinimumWaitingTimeProb\obj\Debug\netcoreapp3.1\MinimumWaitingTimeProb.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\MinimumWaitingTimeProb\obj\Debug\netcoreapp3.1\MinimumWaitingTimeProb.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\MinimumWaitingTimeProb\obj\Debug\netcoreapp3.1\MinimumWaitingTimeProb.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\MinimumWaitingTimeProb\obj\Debug\netcoreapp3.1\MinimumWaitingTimeProb.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\MinimumWaitingTimeProb\obj\Debug\netcoreapp3.1\MinimumWaitingTimeProb.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\MinimumWaitingTimeProb\obj\Debug\netcoreapp3.1\MinimumWaitingTimeProb.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\MinimumWaitingTimeProb\obj\Debug\netcoreapp3.1\MinimumWaitingTimeProb.genruntimeconfig.cache
