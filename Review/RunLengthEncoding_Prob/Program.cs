@@ -10,39 +10,52 @@ namespace RunLengthEncoding_Prob
         //Example: "AAAAAAAAAAAAABBCCCCDD" == 9A4A2B4C2D
         static void Main()
         {
-            RunLengthEncoding("AAAAAAAAAAAAABBCCCCDD");
+            Console.WriteLine(RunLengthEncoding("aA"));
         }
 
         public static string RunLengthEncoding(string str)
         {
             // Write your code here.
-            int pointer = 1;
-            int counter = 0;
+            //int pointer = 1;
+            int counter = 1;
             string wordmash = "";
+            //int i = 0;
 
-
-            if(str[counter] != str[pointer])
+            for (int i = 0; i < str.Length; i++)
             {
-                if (counter > 0)
+                if (i + 1 < str.Length)
                 {
-                    wordmash = wordmash + counter.ToString();
+                    if (str[i] != str[i + 1] || counter > 8)
+                    {
+                        if (counter > 0)
+                        {
+                            wordmash = wordmash + counter.ToString();
+                        }
+                        wordmash = wordmash + str[i - 1];
+                        counter = 1;
+                            //pointer++;                    
+                    }
+                    else
+                    {
+                        
+                        //pointer++;
+                        counter++;
+                        
+                    }
                 }
-                wordmash = wordmash + str[pointer - 1];
-                counter = 0;
-                pointer++;
-                
-            }
-            else
-            {
-                while (str[counter] == str[pointer])
+                else
                 {
-                    pointer++;
-                    counter++;
+                    if (counter > 0)
+                    {
+                        wordmash = wordmash + counter.ToString();
+                    }
+                    wordmash = wordmash + str[i];
+                    return wordmash;
                 }
-                
+                        
+               
             }
             return wordmash;
         }
     }
-    
 }
