@@ -14,7 +14,8 @@ namespace ThreeNumSumProb
         static void Main(string[] args)
         {
             int[] array = { 12, 3, 1, 2, -6, 5, -8, 6 };
-            Console.WriteLine(  ThreeNumberSum(array, 0));
+            //Console.WriteLine(  ThreeNumberSum(array, 0));
+            SolutionII.ThreeNumberSumII(array, 0);
         }
         public static List<int[]> ThreeNumberSum(int[] array, int targetSum)
         {
@@ -61,6 +62,45 @@ namespace ThreeNumSumProb
                 }
             }
             comboList.Add(array);
+            //comboList.Sort();
+            SortArrayList(comboList); //sort list of Array's
+            return comboList;
+        }
+        public static List<int[]> SortArrayList(List<int[]>comboList)
+        {
+            //int index = 0;
+            int[] min = comboList[0];
+
+            for (int i = 0; i < comboList.Count; i++)
+            {
+                int[] arr1 = comboList[i];
+                for (int j = i+1; j < comboList.Count; j++)
+                {
+                    int index = 0;
+                    int[] arr2 = comboList[j];
+                    while(index < arr1.Length)
+                    {
+                        if(arr1[index] == arr2[index])
+                        {
+                            index++;
+                        }
+                        else if (arr1[index] != arr2[index])
+                        {
+                            if (arr1[index] > arr2[index])
+                            {
+                                min = arr2;
+                                int[] tmp = arr1;
+                                comboList[i] = min;
+                                comboList[j] = tmp;
+                                index = 0;
+                                break;
+                            }
+                            else break;
+                                                       
+                        }
+                    }
+                }
+            }
             return comboList;
         }
         public static bool ArrayCheck(int[] array, int[] combo)
