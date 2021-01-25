@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\HashTables\\HashTables.csproj": {}
+    "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\ThreeNumSumProb\\ThreeNumSumProb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\HashTables\\HashTables.csproj": {
+    "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\ThreeNumSumProb\\ThreeNumSumProb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\HashTables\\HashTables.csproj",
-        "projectName": "HashTables",
-        "projectPath": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\HashTables\\HashTables.csproj",
+        "projectUniqueName": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\ThreeNumSumProb\\ThreeNumSumProb.csproj",
+        "projectName": "ThreeNumSumProb",
+        "projectPath": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\ThreeNumSumProb\\ThreeNumSumProb.csproj",
         "packagesPath": "C:\\Users\\davee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\HashTables\\obj\\",
+        "outputPath": "C:\\Users\\davee\\OneDrive\\Documents\\code\\DataStructures-Algorithms\\Review\\ThreeNumSumProb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\davee\\AppData\\Roaming\\NuGet\\NuGet.Config",
