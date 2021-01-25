@@ -16,44 +16,26 @@ namespace RunLengthEncoding_Prob
         public static string RunLengthEncoding(string str)
         {
             // Write your code here.
-            //int pointer = 1;
+            //str.ToLower;
             int counter = 1;
             string wordmash = "";
-            //int i = 0;
-
             for (int i = 0; i < str.Length; i++)
             {
                 if (i + 1 < str.Length)
                 {
                     if (str[i] != str[i + 1] || counter > 8)
                     {
-                        if (counter > 0)
-                        {
-                            wordmash = wordmash + counter.ToString();
-                        }
-                        wordmash = wordmash + str[i - 1];
-                        counter = 1;
-                            //pointer++;                    
+                        wordmash = wordmash + counter + str[i];
+                        counter = 1;                    
                     }
                     else
-                    {
-                        
-                        //pointer++;
-                        counter++;
-                        
-                    }
+                    { counter++;}
                 }
                 else
                 {
-                    if (counter > 0)
-                    {
-                        wordmash = wordmash + counter.ToString();
-                    }
-                    wordmash = wordmash + str[i];
+                    wordmash = wordmash + counter + str[i];
                     return wordmash;
                 }
-                        
-               
             }
             return wordmash;
         }
