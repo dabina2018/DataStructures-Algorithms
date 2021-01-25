@@ -14,14 +14,12 @@ namespace ThreeNumSumProb
         static void Main(string[] args)
         {
             int[] array = { 12, 3, 1, 2, -6, 5, -8, 6 };
-            ThreeNumberSum(array, 0);
+            Console.WriteLine(  ThreeNumberSum(array, 0));
         }
         public static List<int[]> ThreeNumberSum(int[] array, int targetSum)
         {
             // Write your code here.
-            Hashtable sumCombos = new Hashtable();
-            
-            int keyVal = 0;
+            List<int[]> sumCombos = new List<int[]>();
             foreach (int val in array)
             {
                 int needed = targetSum - val;
@@ -35,24 +33,48 @@ namespace ThreeNumSumProb
                             {
                                 int[] newArray = { val, array[i], array[j] };
                                 //sort the array & check for duplicate
-                                
-                                sumCombos.Add(keyVal, newArray);
-                                keyVal++;
+                                ArraySort(newArray, sumCombos);
                             }
                         }
-                        
                     }
                 }
             }
-            return new List<int[]>();
+            return sumCombos;
         }
-        public static int[] ArrayCheck(int[] array, Hashtable hash)
+        public static List<int[]> ArraySort(int[] array, List<int[]> comboList)
         {
+            bool check = true;
             //sort the array
-
-            //check if hash contains array
-            
-            return array;
+            Array.Sort(array);
+            //check if List contains a duplicate
+            if (comboList.Count == 0)
+            {
+                comboList.Add(array);
+                return comboList;
+            }
+            foreach (int[] combo in comboList)
+            {
+                check = ArrayCheck(array, combo);
+                if (check)
+                {
+                    return comboList;
+                }
+            }
+            comboList.Add(array);
+            return comboList;
+        }
+        public static bool ArrayCheck(int[] array, int[] combo)
+        {
+            bool same = true;
+            for (int i = 0; i < combo.Length; i++)
+            {
+                if (array[i] == combo[i])
+                {
+                    same = true;
+                }
+                else return false;
+            }
+            return same;
         }
     }
 }
