@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeNumSumProb\bin\Debug\netcoreapp3.1\ThreeNumSumProb.exe
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeNumSumProb\bin\Debug\netcoreapp3.1\ThreeNumSumProb.deps.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeNumSumProb\bin\Debug\netcoreapp3.1\ThreeNumSumProb.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeNumSumProb\bin\Debug\netcoreapp3.1\ThreeNumSumProb.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeNumSumProb\bin\Debug\netcoreapp3.1\ThreeNumSumProb.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeNumSumProb\bin\Debug\netcoreapp3.1\ThreeNumSumProb.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeNumSumProb\obj\Debug\netcoreapp3.1\ThreeNumSumProb.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeNumSumProb\obj\Debug\netcoreapp3.1\ThreeNumSumProb.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeNumSumProb\obj\Debug\netcoreapp3.1\ThreeNumSumProb.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeNumSumProb\obj\Debug\netcoreapp3.1\ThreeNumSumProb.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeNumSumProb\obj\Debug\netcoreapp3.1\ThreeNumSumProb.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeNumSumProb\obj\Debug\netcoreapp3.1\ThreeNumSumProb.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ThreeNumSumProb\obj\Debug\netcoreapp3.1\ThreeNumSumProb.genruntimeconfig.cache

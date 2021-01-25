@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ThreeNumSumProb/1.0.0": {
+        "runtime": {
+          "ThreeNumSumProb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreeNumSumProb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

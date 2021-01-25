@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace ThreeNumSumProb
@@ -18,23 +19,40 @@ namespace ThreeNumSumProb
         public static List<int[]> ThreeNumberSum(int[] array, int targetSum)
         {
             // Write your code here.
-            IDictionary
+            Hashtable sumCombos = new Hashtable();
+            
+            int keyVal = 0;
             foreach (int val in array)
             {
                 int needed = targetSum - val;
                 for (int i = 0; i < array.Length; i++)
                 {
-                    for (int j = 0; j < array.Length; j++)
+                    for (int j = 1; j < array.Length; j++)
                     {
-                        if(i + j == needed)
+                        if(i != j && array[i] != val && array[j] != val)
                         {
-                            int[] newArray = { val, i, j };
-                            
+                            if (array[i] + array[j] == needed)
+                            {
+                                int[] newArray = { val, array[i], array[j] };
+                                //sort the array & check for duplicate
+                                
+                                sumCombos.Add(keyVal, newArray);
+                                keyVal++;
+                            }
                         }
+                        
                     }
                 }
             }
             return new List<int[]>();
+        }
+        public static int[] ArrayCheck(int[] array, Hashtable hash)
+        {
+            //sort the array
+
+            //check if hash contains array
+            
+            return array;
         }
     }
 }
