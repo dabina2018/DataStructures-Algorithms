@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ApartmentHunt\bin\Debug\netcoreapp3.1\ApartmentHunt.exe
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ApartmentHunt\bin\Debug\netcoreapp3.1\ApartmentHunt.deps.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ApartmentHunt\bin\Debug\netcoreapp3.1\ApartmentHunt.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ApartmentHunt\bin\Debug\netcoreapp3.1\ApartmentHunt.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ApartmentHunt\bin\Debug\netcoreapp3.1\ApartmentHunt.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ApartmentHunt\bin\Debug\netcoreapp3.1\ApartmentHunt.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ApartmentHunt\obj\Debug\netcoreapp3.1\ApartmentHunt.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ApartmentHunt\obj\Debug\netcoreapp3.1\ApartmentHunt.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ApartmentHunt\obj\Debug\netcoreapp3.1\ApartmentHunt.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ApartmentHunt\obj\Debug\netcoreapp3.1\ApartmentHunt.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ApartmentHunt\obj\Debug\netcoreapp3.1\ApartmentHunt.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ApartmentHunt\obj\Debug\netcoreapp3.1\ApartmentHunt.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ApartmentHunt\obj\Debug\netcoreapp3.1\ApartmentHunt.genruntimeconfig.cache
