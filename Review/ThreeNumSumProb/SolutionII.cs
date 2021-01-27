@@ -6,6 +6,13 @@ namespace ThreeNumSumProb
 {
     public class SolutionII
     {
+        public static void Main()
+        {
+            int[] array1 = { -1, 5, 10, 20, 28, 3};
+            int[] array2 = { 26, 134, 135, 15, 17};
+            ThreeNumberSumII(array1, array2);
+            
+        }
         public static List<int[]> ThreeNumberSumII(int[] array, int targetSum)
         {
             // Write your code here.

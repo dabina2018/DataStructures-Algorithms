@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SmallestDifferenceProb\obj\Debug\netcoreapp3.1\SmallestDifferenceProb.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SmallestDifferenceProb\obj\Debug\netcoreapp3.1\SmallestDifferenceProb.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SmallestDifferenceProb\obj\Debug\netcoreapp3.1\SmallestDifferenceProb.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SmallestDifferenceProb\obj\Debug\netcoreapp3.1\SmallestDifferenceProb.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SmallestDifferenceProb\bin\Debug\netcoreapp3.1\SmallestDifferenceProb.exe
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SmallestDifferenceProb\bin\Debug\netcoreapp3.1\SmallestDifferenceProb.deps.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SmallestDifferenceProb\bin\Debug\netcoreapp3.1\SmallestDifferenceProb.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SmallestDifferenceProb\bin\Debug\netcoreapp3.1\SmallestDifferenceProb.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SmallestDifferenceProb\bin\Debug\netcoreapp3.1\SmallestDifferenceProb.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SmallestDifferenceProb\bin\Debug\netcoreapp3.1\SmallestDifferenceProb.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SmallestDifferenceProb\obj\Debug\netcoreapp3.1\SmallestDifferenceProb.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SmallestDifferenceProb\obj\Debug\netcoreapp3.1\SmallestDifferenceProb.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\SmallestDifferenceProb\obj\Debug\netcoreapp3.1\SmallestDifferenceProb.genruntimeconfig.cache

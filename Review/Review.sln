@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7AACA632-B7DE-4617-991B-A6554509F4C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeNumSumProb", "ThreeNumSumProb\ThreeNumSumProb.csproj", "{0C54E71C-7F5C-465B-8A83-6E30827A5468}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestDifferenceProb", "SmallestDifferenceProb\SmallestDifferenceProb.csproj", "{9496E5BA-B391-4756-8D34-49E62937272C}"
 EndProject
 Global
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0C54E71C-7F5C-465B-8A83-6E30827A5468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0C54E71C-7F5C-465B-8A83-6E30827A5468}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0C54E71C-7F5C-465B-8A83-6E30827A5468}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0C54E71C-7F5C-465B-8A83-6E30827A5468}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9496E5BA-B391-4756-8D34-49E62937272C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9496E5BA-B391-4756-8D34-49E62937272C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9496E5BA-B391-4756-8D34-49E62937272C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,9 +20,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{0C54E71C-7F5C-465B-8A83-6E30827A5468} = {7AACA632-B7DE-4617-991B-A6554509F4C4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6AE53758-7F89-4711-B716-DC0C32B2D9CA}
