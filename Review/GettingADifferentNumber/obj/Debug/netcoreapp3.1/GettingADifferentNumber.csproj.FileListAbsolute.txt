@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\GettingADifferentNumber\bin\Debug\netcoreapp3.1\GettingADifferentNumber.exe
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\GettingADifferentNumber\bin\Debug\netcoreapp3.1\GettingADifferentNumber.deps.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\GettingADifferentNumber\bin\Debug\netcoreapp3.1\GettingADifferentNumber.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\GettingADifferentNumber\bin\Debug\netcoreapp3.1\GettingADifferentNumber.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\GettingADifferentNumber\bin\Debug\netcoreapp3.1\GettingADifferentNumber.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\GettingADifferentNumber\bin\Debug\netcoreapp3.1\GettingADifferentNumber.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\GettingADifferentNumber\obj\Debug\netcoreapp3.1\GettingADifferentNumber.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\GettingADifferentNumber\obj\Debug\netcoreapp3.1\GettingADifferentNumber.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\GettingADifferentNumber\obj\Debug\netcoreapp3.1\GettingADifferentNumber.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\GettingADifferentNumber\obj\Debug\netcoreapp3.1\GettingADifferentNumber.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\GettingADifferentNumber\obj\Debug\netcoreapp3.1\GettingADifferentNumber.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\GettingADifferentNumber\obj\Debug\netcoreapp3.1\GettingADifferentNumber.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\GettingADifferentNumber\obj\Debug\netcoreapp3.1\GettingADifferentNumber.genruntimeconfig.cache

@@ -7,8 +7,8 @@ namespace GettingADifferentNumber
     {
         static void Main()
         {
-            int[] array = { 1, 2, 3, 4 };
-            GetDifferentNumber(array);
+            int[] array = { 0, 2, 3, 4 };
+            Console.WriteLine(  GetDifferentNumber(array));
         }
         public static int GetDifferentNumber(int[] arr)
         {
