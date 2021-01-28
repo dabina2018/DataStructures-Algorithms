@@ -32,7 +32,6 @@ namespace ApartmentHunt
                         if(blocks[k][reqs[j]])  
                         {
                             closestReqDist = Math.Min(closestReqDist, DistBtwn(i, k));
-                            
                         }
                     }
                     MaxDistArray[i] = Math.Max(MaxDistArray[i], closestReqDist);
