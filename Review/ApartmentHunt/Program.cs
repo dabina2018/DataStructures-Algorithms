@@ -20,22 +20,22 @@ namespace ApartmentHunt
         public static int ApartmentHunting(List<Dictionary<string, bool>> blocks, string[] reqs)
         {
             // Write your code here.
-            int[] MaxDistArray= new int[5];
+            int[] MaxDistArray= new int[blocks.Count];
             for (int i = 0; i < blocks.Count; i++)// iterate thru ea block to find the max dist to req bldg
             {
                 //int[] maxDistanceAtBlock = new int[]();
                 for (int j = 0; j < reqs.Length; j++)//iterate thru req bldg
                 {
-                    int closestReqDist = 4;
-                    for (int k = 0; k < blocks.Count; k++) //iterate thru each block to find current req
+                    int closestReqDist = blocks.Count;
+                    for (int k = 0; k < blocks.Count; k++) //iterate thru each block with current req to find min dist
                     {
-                         blocks[k].TryGetValue(reqs[j], out bool exists);
-                        if (exists)
+                        if(blocks[k][reqs[j]])  
                         {
                             closestReqDist = Math.Min(closestReqDist, DistBtwn(i, k));
-                            MaxDistArray[i] = Math.Max(MaxDistArray[i], closestReqDist);
+                            
                         }
                     }
+                    MaxDistArray[i] = Math.Max(MaxDistArray[i], closestReqDist);
                 }
             }
             return GetIndexAtMinValue(MaxDistArray);
@@ -47,7 +47,7 @@ namespace ApartmentHunt
         public static int GetIndexAtMinValue(int[] MaxDistancesAtBlocks)
         {
             int minIndex = 0;
-            int minIndexVal = 0;
+            int minIndexVal = MaxDistancesAtBlocks.Length;
             for (int i = 0; i < MaxDistancesAtBlocks.Length; i++)
             {
                 if (MaxDistancesAtBlocks[i] < minIndexVal)
