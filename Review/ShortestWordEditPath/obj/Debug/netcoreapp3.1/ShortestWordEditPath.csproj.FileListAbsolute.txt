@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ShortestWordEditPath\bin\Debug\netcoreapp3.1\ShortestWordEditPath.exe
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ShortestWordEditPath\bin\Debug\netcoreapp3.1\ShortestWordEditPath.deps.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ShortestWordEditPath\bin\Debug\netcoreapp3.1\ShortestWordEditPath.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ShortestWordEditPath\bin\Debug\netcoreapp3.1\ShortestWordEditPath.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ShortestWordEditPath\bin\Debug\netcoreapp3.1\ShortestWordEditPath.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ShortestWordEditPath\bin\Debug\netcoreapp3.1\ShortestWordEditPath.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ShortestWordEditPath\obj\Debug\netcoreapp3.1\ShortestWordEditPath.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ShortestWordEditPath\obj\Debug\netcoreapp3.1\ShortestWordEditPath.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ShortestWordEditPath\obj\Debug\netcoreapp3.1\ShortestWordEditPath.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ShortestWordEditPath\obj\Debug\netcoreapp3.1\ShortestWordEditPath.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ShortestWordEditPath\obj\Debug\netcoreapp3.1\ShortestWordEditPath.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ShortestWordEditPath\obj\Debug\netcoreapp3.1\ShortestWordEditPath.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\ShortestWordEditPath\obj\Debug\netcoreapp3.1\ShortestWordEditPath.genruntimeconfig.cache
