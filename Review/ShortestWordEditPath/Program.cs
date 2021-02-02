@@ -5,6 +5,7 @@ namespace ShortestWordEditPath
 {
     class Program
     {
+        public char[] wordArray { get; set; }
         static void Main()
         {
             string source = "bit";
@@ -40,29 +41,53 @@ namespace ShortestWordEditPath
             for (int i = 0; i < source.Length; i++)
             {
                 sourceChar[0] = alphabet[i];
-                if (sourceChar.ToString == word)
+                if (sourceChar.ToString() == word)
+                {
+                    return word;
+                }
+            }
+            for (int i = 0; i < source.Length; i++)
+            {
+                sourceChar[0] = alphabet[i];
+                if (sourceChar.ToString() == word)
                 {
                     return word;
                 }
                 for (int j = 0; j < source.Length; j++)
                 {
                     sourceChar[1] = alphabet[j];
-                    if (sourceChar.ToString == word)
+                    if (sourceChar.ToString() == word)
+                    {
+                        return word;
+                    }
+                    //else return "";
+                }
+            }
+            for (int i = 0; i < source.Length; i++)
+            {
+                sourceChar[0] = alphabet[i];
+                if (sourceChar.ToString() == word)
+                {
+                    return word;
+                }
+                for (int j = 0; j < source.Length; j++)
+                {
+                    sourceChar[1] = alphabet[j];
+                    if (sourceChar.ToString() == word)
                     {
                         return word;
                     }
                     for (int k = 0; k < source.Length; k++)
                     {
                         sourceChar[2] = alphabet[k];
-                        if (sourceChar.ToString == word)
+                        if (sourceChar.ToString() == word)
                         {
                             return word;
                         }
-                        
+                        else return "";
                     }
                 }
             }
-
             return "";
         }
         public static int ShortestWordPathII(string[] words, string source, string target)
@@ -82,13 +107,14 @@ namespace ShortestWordEditPath
             return -1;
         }
 
-        public override string ToString(char[] wordArray)
+        public override string ToString()
         {
             string word = "";
             foreach (char letter in wordArray)
             {
                 word += letter;
             }
+            return word;
         }
 
 
