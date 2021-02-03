@@ -6,8 +6,8 @@ namespace ShiftedArraySearch
     {
         static void Main()
         {
-            int[] array = { 1, 2};
-            int num = 2;
+            int[] array = { 0,1,2,3,4,5};
+            int num = 1;
             //ShiftedArrSearch(array, num);
             Console.WriteLine(  ShiftedArrSearchII(array, num));
         }
@@ -30,8 +30,16 @@ namespace ShiftedArraySearch
         }
         public static int SearchHelper(int[] array, int start, int last, int num)
         {
-            int midpoint = last-start / 2;
-            if(midpoint == num)
+            if(start - last == 0)
+            {
+                if (array[0] == num)
+                {
+                    return 0;
+                }
+                else return -1;
+            }
+            int midpoint = (last-start) / 2;
+            if(array[midpoint] == num)
             {
                 return midpoint;
             }
