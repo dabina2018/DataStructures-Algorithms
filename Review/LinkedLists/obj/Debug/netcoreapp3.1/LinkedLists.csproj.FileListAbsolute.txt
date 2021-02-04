@@ -1,0 +1,13 @@
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.exe
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.deps.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.runtimeconfig.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.runtimeconfig.dev.json
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\LinkedLists\bin\Debug\netcoreapp3.1\LinkedLists.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.csprojAssemblyReference.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.AssemblyInfoInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.AssemblyInfo.cs
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.dll
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.pdb
+C:\Users\davee\OneDrive\Documents\code\DataStructures-Algorithms\Review\LinkedLists\obj\Debug\netcoreapp3.1\LinkedLists.genruntimeconfig.cache
