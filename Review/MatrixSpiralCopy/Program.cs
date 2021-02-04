@@ -7,7 +7,7 @@ namespace MatrixSpiralCopy
         static void Main(string[] args)
         {
             int counter = 1;
-            int[,] array = new int[5, 4];
+            int[,] array = new int[4, 5]; // 4 rows 5 columns
             Console.WriteLine(array.GetLength(0));
             Console.WriteLine(array.GetLength(1));
             for (int i = 0; i < array.Length; i++)
@@ -15,6 +15,7 @@ namespace MatrixSpiralCopy
                 for (int j = 0; j < array.Length; j++)
                 {
                     array[i, j] = counter;
+                    counter++;
                 }
                 
             }
