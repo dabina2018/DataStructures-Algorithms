@@ -16,7 +16,7 @@ namespace ShortestWordEditPath
         public static int ShortestWordPath(string[] words, string source, string target)
         {
             //create hashset with words array
-            var wordsHash = new HashSet<string>(words);
+            //var wordsHash = new HashSet<string>(words);
             //create a queue starting with source word
             Queue<string> wordMap = new Queue<string>();
             wordMap.Enqueue(source);
@@ -32,6 +32,7 @@ namespace ShortestWordEditPath
             }
             return -1;
         }
+        //this wont work.. recursive step back..
         public static string WordSearch(string source, string word, Queue<string> wordMap)
         {
             char[] sourceChar = source.ToCharArray();
