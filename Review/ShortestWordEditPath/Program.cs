@@ -12,6 +12,7 @@ namespace ShortestWordEditPath
             string target = "dog";
             string[] words = {"but", "put", "big", "pot", "pog", "dog", "lot" };
             ShortestWordPath(words, source, target);
+            SolutionII.ShortestWordPathII(words, source, target);
         }
         public static int ShortestWordPath(string[] words, string source, string target)
         {
@@ -23,7 +24,7 @@ namespace ShortestWordEditPath
             foreach (string word in words)
             {
                 //replace ea letter in source word sequentially to find words from given array
-                string newWord = WordSearch(source, word, wordMap);
+                string newWord = WordSearch(source, word);
                 //search for word in hashset, if found add to queue
                 if(newWord.Length != 0)
                 {
@@ -32,11 +33,11 @@ namespace ShortestWordEditPath
             }
             return -1;
         }
-        //this wont work.. recursive step back..
-        public static string WordSearch(string source, string word, Queue<string> wordMap)
+        //this wont work.. back tracking depth first search*
+        public static string WordSearch(string source, string word)
         {
             char[] sourceChar = source.ToCharArray();
-            string rtrWrd = "";
+            //string rtrWrd = "";
             //create array with alphabet letters
             char[] alphabet = new char[] { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
             for (int i = 0; i < source.Length; i++)
@@ -78,14 +79,17 @@ namespace ShortestWordEditPath
                     {
                         return word;
                     }
-                    for (int k = 0; k < source.Length; k++)
+                    else
                     {
-                        sourceChar[2] = alphabet[k];
-                        if (sourceChar.ToString() == word)
+                       /* for (int k = 0; k < source.Length; k++)
                         {
-                            return word;
-                        }
-                        else return "";
+                            sourceChar[2] = alphabet[k];
+                            if (sourceChar.ToString() == word)
+                            {
+                                return word;
+                            }
+                            else return "";
+                        }*/
                     }
                 }
             }
