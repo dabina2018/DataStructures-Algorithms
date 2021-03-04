@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\Review\\DistributeCandies\\DistributeCandies.csproj",
+      "projectUniqueName": "D:\\code\\DataStructures-Algorithms\\Review II\\DistributeCandies\\DistributeCandies.csproj",
       "projectName": "DistributeCandies",
-      "projectPath": "D:\\code\\Review\\DistributeCandies\\DistributeCandies.csproj",
+      "projectPath": "D:\\code\\DataStructures-Algorithms\\Review II\\DistributeCandies\\DistributeCandies.csproj",
       "packagesPath": "C:\\Users\\User01\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\Review\\DistributeCandies\\obj\\",
+      "outputPath": "D:\\code\\DataStructures-Algorithms\\Review II\\DistributeCandies\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User01\\AppData\\Roaming\\NuGet\\NuGet.Config",

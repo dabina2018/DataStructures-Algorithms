@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\Review\\Tree Traversal\\Tree Traversal\\Tree Traversal.csproj",
+      "projectUniqueName": "D:\\code\\DataStructures-Algorithms\\Review II\\Tree Traversal\\Tree Traversal\\Tree Traversal.csproj",
       "projectName": "Tree Traversal",
-      "projectPath": "D:\\code\\Review\\Tree Traversal\\Tree Traversal\\Tree Traversal.csproj",
+      "projectPath": "D:\\code\\DataStructures-Algorithms\\Review II\\Tree Traversal\\Tree Traversal\\Tree Traversal.csproj",
       "packagesPath": "C:\\Users\\User01\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\Review\\Tree Traversal\\Tree Traversal\\obj\\",
+      "outputPath": "D:\\code\\DataStructures-Algorithms\\Review II\\Tree Traversal\\Tree Traversal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User01\\AppData\\Roaming\\NuGet\\NuGet.Config",

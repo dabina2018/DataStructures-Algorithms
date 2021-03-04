@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\Review\\Review\\Review.csproj",
+      "projectUniqueName": "D:\\code\\DataStructures-Algorithms\\Review II\\Review\\Review.csproj",
       "projectName": "Review",
-      "projectPath": "D:\\code\\Review\\Review\\Review.csproj",
+      "projectPath": "D:\\code\\DataStructures-Algorithms\\Review II\\Review\\Review.csproj",
       "packagesPath": "C:\\Users\\User01\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\Review\\Review\\obj\\",
+      "outputPath": "D:\\code\\DataStructures-Algorithms\\Review II\\Review\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User01\\AppData\\Roaming\\NuGet\\NuGet.Config",

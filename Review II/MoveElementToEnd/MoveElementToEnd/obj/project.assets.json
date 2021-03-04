@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\Review\\MoveElementToEnd\\MoveElementToEnd\\MoveElementToEnd.csproj",
+      "projectUniqueName": "D:\\code\\DataStructures-Algorithms\\Review II\\MoveElementToEnd\\MoveElementToEnd\\MoveElementToEnd.csproj",
       "projectName": "MoveElementToEnd",
-      "projectPath": "D:\\code\\Review\\MoveElementToEnd\\MoveElementToEnd\\MoveElementToEnd.csproj",
+      "projectPath": "D:\\code\\DataStructures-Algorithms\\Review II\\MoveElementToEnd\\MoveElementToEnd\\MoveElementToEnd.csproj",
       "packagesPath": "C:\\Users\\User01\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\Review\\MoveElementToEnd\\MoveElementToEnd\\obj\\",
+      "outputPath": "D:\\code\\DataStructures-Algorithms\\Review II\\MoveElementToEnd\\MoveElementToEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User01\\AppData\\Roaming\\NuGet\\NuGet.Config",

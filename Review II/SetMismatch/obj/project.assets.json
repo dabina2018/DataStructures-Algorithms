@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\Review\\SetMismatch\\SetMismatch.csproj",
+      "projectUniqueName": "D:\\code\\DataStructures-Algorithms\\Review II\\SetMismatch\\SetMismatch.csproj",
       "projectName": "SetMismatch",
-      "projectPath": "D:\\code\\Review\\SetMismatch\\SetMismatch.csproj",
+      "projectPath": "D:\\code\\DataStructures-Algorithms\\Review II\\SetMismatch\\SetMismatch.csproj",
       "packagesPath": "C:\\Users\\User01\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\Review\\SetMismatch\\obj\\",
+      "outputPath": "D:\\code\\DataStructures-Algorithms\\Review II\\SetMismatch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User01\\AppData\\Roaming\\NuGet\\NuGet.Config",

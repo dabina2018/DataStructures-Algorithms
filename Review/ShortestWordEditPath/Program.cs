@@ -12,7 +12,7 @@ namespace ShortestWordEditPath
             string target = "dog";
             string[] words = {"but", "put", "big", "pot", "pog", "dog", "lot" };
             ShortestWordPath(words, source, target);
-            SolutionII.ShortestWordPathII(words, source, target);
+            //SolutionII.ShortestWordPathII(words, source, target);
         }
         public static int ShortestWordPath(string[] words, string source, string target)
         {
@@ -42,11 +42,19 @@ namespace ShortestWordEditPath
             char[] alphabet = new char[] { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
             for (int i = 0; i < source.Length; i++)
             {
-                sourceChar[0] = alphabet[i];
-                if (sourceChar.ToString() == word)
+                if (sourceChar[0] == word[0])
                 {
-                    return word;
+                    break;
                 }
+                else
+                {
+                    sourceChar[0] = alphabet[i];
+                    if (sourceChar.ToString() == word)
+                    {
+                        return word;
+                    }
+                }
+                
             }
             for (int i = 0; i < source.Length; i++)
             {

@@ -11,3 +11,16 @@ D:\code\Review\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.csproj.CoreCompil
 D:\code\Review\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.dll
 D:\code\Review\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.pdb
 D:\code\Review\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.genruntimeconfig.cache
+D:\code\DataStructures-Algorithms\Review II\SetMismatch\bin\Debug\netcoreapp3.1\SetMismatch.exe
+D:\code\DataStructures-Algorithms\Review II\SetMismatch\bin\Debug\netcoreapp3.1\SetMismatch.deps.json
+D:\code\DataStructures-Algorithms\Review II\SetMismatch\bin\Debug\netcoreapp3.1\SetMismatch.runtimeconfig.json
+D:\code\DataStructures-Algorithms\Review II\SetMismatch\bin\Debug\netcoreapp3.1\SetMismatch.runtimeconfig.dev.json
+D:\code\DataStructures-Algorithms\Review II\SetMismatch\bin\Debug\netcoreapp3.1\SetMismatch.dll
+D:\code\DataStructures-Algorithms\Review II\SetMismatch\bin\Debug\netcoreapp3.1\SetMismatch.pdb
+D:\code\DataStructures-Algorithms\Review II\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.csprojAssemblyReference.cache
+D:\code\DataStructures-Algorithms\Review II\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.AssemblyInfoInputs.cache
+D:\code\DataStructures-Algorithms\Review II\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.AssemblyInfo.cs
+D:\code\DataStructures-Algorithms\Review II\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.csproj.CoreCompileInputs.cache
+D:\code\DataStructures-Algorithms\Review II\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.dll
+D:\code\DataStructures-Algorithms\Review II\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.pdb
+D:\code\DataStructures-Algorithms\Review II\SetMismatch\obj\Debug\netcoreapp3.1\SetMismatch.genruntimeconfig.cache
