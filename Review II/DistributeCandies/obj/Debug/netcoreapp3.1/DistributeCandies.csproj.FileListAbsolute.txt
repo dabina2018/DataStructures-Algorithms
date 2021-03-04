@@ -1,0 +1,13 @@
+D:\code\Review\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.csprojAssemblyReference.cache
+D:\code\Review\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.AssemblyInfoInputs.cache
+D:\code\Review\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.AssemblyInfo.cs
+D:\code\Review\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.csproj.CoreCompileInputs.cache
+D:\code\Review\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.exe
+D:\code\Review\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.deps.json
+D:\code\Review\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.runtimeconfig.json
+D:\code\Review\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.runtimeconfig.dev.json
+D:\code\Review\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.dll
+D:\code\Review\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.pdb
+D:\code\Review\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.dll
+D:\code\Review\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.pdb
+D:\code\Review\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.genruntimeconfig.cache
