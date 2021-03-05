@@ -1,0 +1,12 @@
+D:\code\DataStructures-Algorithms\Review II\MatrixSpiralCopy\bin\Debug\netcoreapp3.1\MatrixSpiralCopy.exe
+D:\code\DataStructures-Algorithms\Review II\MatrixSpiralCopy\bin\Debug\netcoreapp3.1\MatrixSpiralCopy.deps.json
+D:\code\DataStructures-Algorithms\Review II\MatrixSpiralCopy\bin\Debug\netcoreapp3.1\MatrixSpiralCopy.runtimeconfig.json
+D:\code\DataStructures-Algorithms\Review II\MatrixSpiralCopy\bin\Debug\netcoreapp3.1\MatrixSpiralCopy.runtimeconfig.dev.json
+D:\code\DataStructures-Algorithms\Review II\MatrixSpiralCopy\bin\Debug\netcoreapp3.1\MatrixSpiralCopy.dll
+D:\code\DataStructures-Algorithms\Review II\MatrixSpiralCopy\bin\Debug\netcoreapp3.1\MatrixSpiralCopy.pdb
+D:\code\DataStructures-Algorithms\Review II\MatrixSpiralCopy\obj\Debug\netcoreapp3.1\MatrixSpiralCopy.AssemblyInfoInputs.cache
+D:\code\DataStructures-Algorithms\Review II\MatrixSpiralCopy\obj\Debug\netcoreapp3.1\MatrixSpiralCopy.AssemblyInfo.cs
+D:\code\DataStructures-Algorithms\Review II\MatrixSpiralCopy\obj\Debug\netcoreapp3.1\MatrixSpiralCopy.csproj.CoreCompileInputs.cache
+D:\code\DataStructures-Algorithms\Review II\MatrixSpiralCopy\obj\Debug\netcoreapp3.1\MatrixSpiralCopy.dll
+D:\code\DataStructures-Algorithms\Review II\MatrixSpiralCopy\obj\Debug\netcoreapp3.1\MatrixSpiralCopy.pdb
+D:\code\DataStructures-Algorithms\Review II\MatrixSpiralCopy\obj\Debug\netcoreapp3.1\MatrixSpiralCopy.genruntimeconfig.cache
