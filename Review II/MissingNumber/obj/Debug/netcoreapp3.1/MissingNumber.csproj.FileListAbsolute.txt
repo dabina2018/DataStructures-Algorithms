@@ -1,0 +1,13 @@
+D:\code\DataStructures-Algorithms\Review II\MissingNumber\bin\Debug\netcoreapp3.1\MissingNumber.exe
+D:\code\DataStructures-Algorithms\Review II\MissingNumber\bin\Debug\netcoreapp3.1\MissingNumber.deps.json
+D:\code\DataStructures-Algorithms\Review II\MissingNumber\bin\Debug\netcoreapp3.1\MissingNumber.runtimeconfig.json
+D:\code\DataStructures-Algorithms\Review II\MissingNumber\bin\Debug\netcoreapp3.1\MissingNumber.runtimeconfig.dev.json
+D:\code\DataStructures-Algorithms\Review II\MissingNumber\bin\Debug\netcoreapp3.1\MissingNumber.dll
+D:\code\DataStructures-Algorithms\Review II\MissingNumber\bin\Debug\netcoreapp3.1\MissingNumber.pdb
+D:\code\DataStructures-Algorithms\Review II\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.csprojAssemblyReference.cache
+D:\code\DataStructures-Algorithms\Review II\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.AssemblyInfoInputs.cache
+D:\code\DataStructures-Algorithms\Review II\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.AssemblyInfo.cs
+D:\code\DataStructures-Algorithms\Review II\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.csproj.CoreCompileInputs.cache
+D:\code\DataStructures-Algorithms\Review II\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.dll
+D:\code\DataStructures-Algorithms\Review II\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.pdb
+D:\code\DataStructures-Algorithms\Review II\MissingNumber\obj\Debug\netcoreapp3.1\MissingNumber.genruntimeconfig.cache
