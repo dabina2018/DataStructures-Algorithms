@@ -14,18 +14,18 @@ namespace IntersectionOfTwoLinkedLists
         //There are 2 nodes before the intersected node in A; There are 3 nodes before the intersected node in B.
         static void Main()
         {
-            ListNode listNodeA = new ListNode(4);
-            listNodeA.next = new ListNode(1);
-            listNodeA.next.next = new ListNode(8);
-            listNodeA.next.next.next = new ListNode(4);
-            listNodeA.next.next.next.next = new ListNode(5);
+            ListNode listNodeA = new ListNode(1);
+            listNodeA.next = new ListNode(9);
+            listNodeA.next.next = new ListNode(1);
+            listNodeA.next.next.next = new ListNode(2);
+            listNodeA.next.next.next.next = new ListNode(4);
 
-            ListNode listNodeB = new ListNode(5);
-            listNodeB.next = new ListNode(6);
-            listNodeB.next.next = new ListNode(1);
-            listNodeB.next.next.next = new ListNode(8);
-            listNodeB.next.next.next.next = new ListNode(4);
-            listNodeB.next.next.next.next.next = new ListNode(5);
+            ListNode listNodeB = new ListNode(3);
+            listNodeB.next = new ListNode(2);
+            listNodeB.next.next = new ListNode(4);
+            //listNodeB.next.next.next = new ListNode(8);
+            //listNodeB.next.next.next.next = new ListNode(4);
+            //listNodeB.next.next.next.next.next = new ListNode(5);
             GetIntersectionNode(listNodeA, listNodeB);
         }
        
@@ -34,13 +34,21 @@ namespace IntersectionOfTwoLinkedLists
             HashSet<ListNode> listA = new HashSet<ListNode>();
                 
             ListNode current = headA;
-            while (current.next != null)
+            if (headA == null || headB == null)
+            {
+                return null;
+            }
+            if (headA == headB)
+            {
+                return headA;
+            }
+            while (current != null)
             {
                 listA.Add(current);
                 current = current.next;
             }
             current = headB;
-            while (current.next != null)
+            while (current != null)
             {
                 if (listA.Contains(current)) //check for matching node
                 {
