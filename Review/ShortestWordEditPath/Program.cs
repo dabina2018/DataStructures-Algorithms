@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace ShortestWordEditPath
@@ -11,98 +12,70 @@ namespace ShortestWordEditPath
             string source = "bit";
             string target = "dog";
             string[] words = {"but", "put", "big", "pot", "pog", "dog", "lot" };
-            ShortestWordPath(words, source, target);
+            Console.WriteLine(ShortestWordPath(words, source, target));
             //SolutionII.ShortestWordPathII(words, source, target);
         }
         public static int ShortestWordPath(string[] words, string source, string target)
         {
-            //create hashset with words array
-            //var wordsHash = new HashSet<string>(words);
+            //create and empty hashset
+            HashSet<string> wordHash = new HashSet<string>(words);            
             //create a queue starting with source word
             Queue<string> wordMap = new Queue<string>();
             wordMap.Enqueue(source);
-            foreach (string word in words)
+            
+            
+            while (source != target)
             {
-                //replace ea letter in source word sequentially to find words from given array
-                string newWord = WordSearch(source, word);
-                //search for word in hashset, if found add to queue
-                if(newWord.Length != 0)
+                //fill the hashtable with the words and thier diffs (from current source)
+                Dictionary<int, string> wordDict = WordSearch(source, wordHash);
+                //find the lowest diff in the hashtable
+                
+                if (wordDict.TryGetValue(1, out string newWord))
                 {
                     wordMap.Enqueue(newWord);
-                }
-            }
-            return -1;
-        }
-        //this wont work.. back tracking depth first search*
-        public static string WordSearch(string source, string word)
-        {
-            char[] sourceChar = source.ToCharArray();
-            //string rtrWrd = "";
-            //create array with alphabet letters
-            char[] alphabet = new char[] { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
-            for (int i = 0; i < source.Length; i++)
-            {
-                if (sourceChar[0] == word[0])
-                {
-                    break;
+                    wordHash.Remove(newWord);
                 }
                 else
                 {
-                    sourceChar[0] = alphabet[i];
-                    if (sourceChar.ToString() == word)
+                    //roll back search to last word
+                    wordMap.Dequeue();
+                    wordDict.Add(1, newWord);
+                }
+                source = newWord;
+            }
+            return wordMap.Count-1;
+        }
+        //this wont work.. back tracking depth first search*
+        public static Dictionary<int, string> WordSearch(string source, HashSet<string> words)
+        {
+            //Hashtable wordHT = new Hashtable();
+            Dictionary<int, string> wordsDic = new Dictionary<int, string>();
+            foreach (string word in words)
+            {
+                int count = 0;
+                int i = 0;
+                while (i < word.Length)
+                {
+                    if (word[i] != source[i])
                     {
-                        return word;
+                        count++;
                     }
+                    i++;
+                }
+                try //change this to check for count of 1
+                {
+                    wordsDic.Add(count, word);                    
+                }
+                catch (Exception)
+                {
+                    return wordsDic;
+                    //throw;
                 }
                 
             }
-            for (int i = 0; i < source.Length; i++)
-            {
-                sourceChar[0] = alphabet[i];
-                if (sourceChar.ToString() == word)
-                {
-                    return word;
-                }
-                for (int j = 0; j < source.Length; j++)
-                {
-                    sourceChar[1] = alphabet[j];
-                    if (sourceChar.ToString() == word)
-                    {
-                        return word;
-                    }
-                    //else return "";
-                }
-            }
-            for (int i = 0; i < source.Length; i++)
-            {
-                sourceChar[0] = alphabet[i];
-                if (sourceChar.ToString() == word)
-                {
-                    return word;
-                }
-                for (int j = 0; j < source.Length; j++)
-                {
-                    sourceChar[1] = alphabet[j];
-                    if (sourceChar.ToString() == word)
-                    {
-                        return word;
-                    }
-                    else
-                    {
-                       /* for (int k = 0; k < source.Length; k++)
-                        {
-                            sourceChar[2] = alphabet[k];
-                            if (sourceChar.ToString() == word)
-                            {
-                                return word;
-                            }
-                            else return "";
-                        }*/
-                    }
-                }
-            }
-            return "";
+            return wordsDic;
         }
+
         public static int ShortestWordPathII(string[] words, string source, string target)
         {
             //for(i=0)
@@ -129,7 +102,9 @@ namespace ShortestWordEditPath
             }
             return word;
         }
-
-
     }
+       
+
+
+    
 }
