@@ -11,3 +11,16 @@ D:\code\Review\Review\obj\Debug\netcoreapp3.1\Review.csproj.CoreCompileInputs.ca
 D:\code\Review\Review\obj\Debug\netcoreapp3.1\Review.dll
 D:\code\Review\Review\obj\Debug\netcoreapp3.1\Review.pdb
 D:\code\Review\Review\obj\Debug\netcoreapp3.1\Review.genruntimeconfig.cache
+D:\code\DataStructures-Algorithms\Review II\Review\bin\Debug\netcoreapp3.1\Review.exe
+D:\code\DataStructures-Algorithms\Review II\Review\bin\Debug\netcoreapp3.1\Review.deps.json
+D:\code\DataStructures-Algorithms\Review II\Review\bin\Debug\netcoreapp3.1\Review.runtimeconfig.json
+D:\code\DataStructures-Algorithms\Review II\Review\bin\Debug\netcoreapp3.1\Review.runtimeconfig.dev.json
+D:\code\DataStructures-Algorithms\Review II\Review\bin\Debug\netcoreapp3.1\Review.dll
+D:\code\DataStructures-Algorithms\Review II\Review\bin\Debug\netcoreapp3.1\Review.pdb
+D:\code\DataStructures-Algorithms\Review II\Review\obj\Debug\netcoreapp3.1\Review.csprojAssemblyReference.cache
+D:\code\DataStructures-Algorithms\Review II\Review\obj\Debug\netcoreapp3.1\Review.AssemblyInfoInputs.cache
+D:\code\DataStructures-Algorithms\Review II\Review\obj\Debug\netcoreapp3.1\Review.AssemblyInfo.cs
+D:\code\DataStructures-Algorithms\Review II\Review\obj\Debug\netcoreapp3.1\Review.csproj.CoreCompileInputs.cache
+D:\code\DataStructures-Algorithms\Review II\Review\obj\Debug\netcoreapp3.1\Review.dll
+D:\code\DataStructures-Algorithms\Review II\Review\obj\Debug\netcoreapp3.1\Review.pdb
+D:\code\DataStructures-Algorithms\Review II\Review\obj\Debug\netcoreapp3.1\Review.genruntimeconfig.cache

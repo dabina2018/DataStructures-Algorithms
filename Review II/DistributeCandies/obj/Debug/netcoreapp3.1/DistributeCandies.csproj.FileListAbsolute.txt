@@ -11,3 +11,16 @@ D:\code\Review\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.pdb
 D:\code\Review\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.dll
 D:\code\Review\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.pdb
 D:\code\Review\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.genruntimeconfig.cache
+D:\code\DataStructures-Algorithms\Review II\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.exe
+D:\code\DataStructures-Algorithms\Review II\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.deps.json
+D:\code\DataStructures-Algorithms\Review II\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.runtimeconfig.json
+D:\code\DataStructures-Algorithms\Review II\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.runtimeconfig.dev.json
+D:\code\DataStructures-Algorithms\Review II\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.dll
+D:\code\DataStructures-Algorithms\Review II\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.pdb
+D:\code\DataStructures-Algorithms\Review II\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.csprojAssemblyReference.cache
+D:\code\DataStructures-Algorithms\Review II\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.AssemblyInfoInputs.cache
+D:\code\DataStructures-Algorithms\Review II\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.AssemblyInfo.cs
+D:\code\DataStructures-Algorithms\Review II\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.csproj.CoreCompileInputs.cache
+D:\code\DataStructures-Algorithms\Review II\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.dll
+D:\code\DataStructures-Algorithms\Review II\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.pdb
+D:\code\DataStructures-Algorithms\Review II\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.genruntimeconfig.cache
