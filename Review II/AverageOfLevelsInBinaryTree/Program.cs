@@ -28,7 +28,7 @@ namespace AverageOfLevelsInBinaryTree
         }
 
         //create helper function
-        public static void Helper(TreeNode node, double level, Hashtable sums, Hashtable count)
+        public static void Helper(TreeNode node,  int level, Hashtable sums, Hashtable count)
         {
             Hashtable rtr = new Hashtable();
             level += 1;
@@ -40,8 +40,8 @@ namespace AverageOfLevelsInBinaryTree
             {
                 if (!sums.ContainsValue(node.val)) //check to see if node has been visited
                 {
-                    sums[level] = (double)sums[level] + node.val; //update total sum for level
-                    count[level] = (double)count[level] + 1; //update node count for level
+                    sums[level] = (int)sums[level] + node.val; //update total sum for level
+                    count[level] = (int)count[level] + 1; //update node count for level
                 }                
             }
             else
@@ -60,7 +60,8 @@ namespace AverageOfLevelsInBinaryTree
             IList<double> final = new List<double>();
             for (int i = 1; i <= sums.Count; i++)
             {
-                final.Add((double)sums[i] / (double)count[i]);
+                //double num = (int)sums[i] / (int)count[i];
+                final.Add((int)sums[i] / (int)count[i]);
             }
             return final;
         }
