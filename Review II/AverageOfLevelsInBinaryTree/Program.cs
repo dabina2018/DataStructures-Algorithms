@@ -10,18 +10,18 @@ namespace AverageOfLevelsInBinaryTree
             //in the form of an array.
         static void Main()
         {
-            TreeNode root = new TreeNode(3);
-            root.left = new TreeNode(9);
-            root.right = new TreeNode(20);
-            root.right.left = new TreeNode(15);
-            root.right.right = new TreeNode(7);
+            TreeNode root = new TreeNode(5);
+            root.left = new TreeNode(2);
+            root.right = new TreeNode(-3);
+            //root.right.left = new TreeNode(15);
+            //root.right.right = new TreeNode(7);
 
             AverageOfLevels(root);
         }
 
         static Hashtable sums = new Hashtable(); //level, sum
         static Hashtable count = new Hashtable(); //level, count
-
+        //use an array List where index is the level [sums, count]
         public static IList<double> AverageOfLevels(TreeNode root)
         {
             Hashtable rtr = new Hashtable();
@@ -62,8 +62,8 @@ namespace AverageOfLevelsInBinaryTree
             IList<double> final = new List<double>();
             for (int i = 1; i <= sums.Count; i++)
             {
-                //double num = (int)sums[i] / (int)count[i];
-                final.Add((int)sums[i] / (int)count[i]);
+                double num = (double)(int)sums[i];
+                final.Add(num / (int)count[i]);
             }
             return final;
         }
