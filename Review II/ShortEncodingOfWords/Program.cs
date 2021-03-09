@@ -7,8 +7,9 @@ namespace ShortEncodingOfWords
     {
         static void Main()
         {
-            string[] array = new string[] {"esquire", "e"};
-            MinimumLengthEncoding(array);
+            string[] array = new string[] {"time", "me"};
+            Console.WriteLine(MinimumLengthEncoding(array));
+            Console.WriteLine(MinimumLengthEncodingII(array));
         }
         public static int MinimumLengthEncoding(string[] words)
         {

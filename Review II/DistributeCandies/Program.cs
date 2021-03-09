@@ -15,7 +15,7 @@ namespace DistributeCandies
             int[] candyType = { 1, 1, 2, 2, 3, 3 };
            
             Console.WriteLine(DistributeCandies(candyType));
-            Console.WriteLine(DistributeCandiesII(candyType));
+            //Console.WriteLine(DistributeCandiesII(candyType));
         }
         static public int DistributeCandies(int[] candyType)
         {
