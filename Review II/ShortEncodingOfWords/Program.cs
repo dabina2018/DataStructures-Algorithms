@@ -7,20 +7,20 @@ namespace ShortEncodingOfWords
     {
         static void Main()
         {
-            string[] array = new string[] {"time", "me"};
+            string[] array = new string[] {"time", "time", "time", "time"};
             Console.WriteLine(MinimumLengthEncoding(array));
             Console.WriteLine(MinimumLengthEncodingII(array));
         }
         public static int MinimumLengthEncoding(string[] words)
         {
             string s = "";
-            List<string> wordz = new List<string>(words);
+            HashSet<string> wordz = new HashSet<string>(words);
             //int i = 0;
             if (words.Length != 1)
             {
                 foreach (string wd in words)
                 {
-                    for (int i = 1; i < words.Length; i++)
+                    for (int i = 1; i < wd.Length; i++)
                     {
                         wordz.Remove(wd.Substring(i));  
                     }
