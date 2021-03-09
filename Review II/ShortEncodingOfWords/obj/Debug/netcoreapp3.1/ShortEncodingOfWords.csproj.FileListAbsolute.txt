@@ -1,0 +1,13 @@
+D:\code\DataStructures-Algorithms\Review II\ShortEncodingOfWords\bin\Debug\netcoreapp3.1\ShortEncodingOfWords.exe
+D:\code\DataStructures-Algorithms\Review II\ShortEncodingOfWords\bin\Debug\netcoreapp3.1\ShortEncodingOfWords.deps.json
+D:\code\DataStructures-Algorithms\Review II\ShortEncodingOfWords\bin\Debug\netcoreapp3.1\ShortEncodingOfWords.runtimeconfig.json
+D:\code\DataStructures-Algorithms\Review II\ShortEncodingOfWords\bin\Debug\netcoreapp3.1\ShortEncodingOfWords.runtimeconfig.dev.json
+D:\code\DataStructures-Algorithms\Review II\ShortEncodingOfWords\bin\Debug\netcoreapp3.1\ShortEncodingOfWords.dll
+D:\code\DataStructures-Algorithms\Review II\ShortEncodingOfWords\bin\Debug\netcoreapp3.1\ShortEncodingOfWords.pdb
+D:\code\DataStructures-Algorithms\Review II\ShortEncodingOfWords\obj\Debug\netcoreapp3.1\ShortEncodingOfWords.csprojAssemblyReference.cache
+D:\code\DataStructures-Algorithms\Review II\ShortEncodingOfWords\obj\Debug\netcoreapp3.1\ShortEncodingOfWords.AssemblyInfoInputs.cache
+D:\code\DataStructures-Algorithms\Review II\ShortEncodingOfWords\obj\Debug\netcoreapp3.1\ShortEncodingOfWords.AssemblyInfo.cs
+D:\code\DataStructures-Algorithms\Review II\ShortEncodingOfWords\obj\Debug\netcoreapp3.1\ShortEncodingOfWords.csproj.CoreCompileInputs.cache
+D:\code\DataStructures-Algorithms\Review II\ShortEncodingOfWords\obj\Debug\netcoreapp3.1\ShortEncodingOfWords.dll
+D:\code\DataStructures-Algorithms\Review II\ShortEncodingOfWords\obj\Debug\netcoreapp3.1\ShortEncodingOfWords.pdb
+D:\code\DataStructures-Algorithms\Review II\ShortEncodingOfWords\obj\Debug\netcoreapp3.1\ShortEncodingOfWords.genruntimeconfig.cache
