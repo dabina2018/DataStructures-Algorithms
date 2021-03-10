@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntersectionOfTwoLinkedList
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AverageOfLevelsInBinaryTree", "AverageOfLevelsInBinaryTree\AverageOfLevelsInBinaryTree.csproj", "{D408C9BC-7B55-4EDF-A38B-9EDA5D044701}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortEncodingOfWords", "ShortEncodingOfWords\ShortEncodingOfWords.csproj", "{6BBB4F57-3036-4F1A-B629-39F690C0B725}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShortEncodingOfWords", "ShortEncodingOfWords\ShortEncodingOfWords.csproj", "{6BBB4F57-3036-4F1A-B629-39F690C0B725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignHashMap", "DesignHashMap\DesignHashMap.csproj", "{DE325053-A613-460C-85DC-13F8F3E148E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{6BBB4F57-3036-4F1A-B629-39F690C0B725}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BBB4F57-3036-4F1A-B629-39F690C0B725}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BBB4F57-3036-4F1A-B629-39F690C0B725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE325053-A613-460C-85DC-13F8F3E148E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE325053-A613-460C-85DC-13F8F3E148E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE325053-A613-460C-85DC-13F8F3E148E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE325053-A613-460C-85DC-13F8F3E148E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
