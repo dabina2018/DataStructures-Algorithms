@@ -38,7 +38,16 @@ namespace DesignHashMap
             
             public void put(int key, int value)
             {
-                hashmap.Add(key, value);
+                if (hashmap.ContainsKey(key))
+                {
+                    hashmap[key] = value;
+                    
+                }
+                else
+                {
+                    hashmap.Add(key, value);
+                }
+                //hashmap.Add(key, value);
             }
             public int get(int key)
             {
