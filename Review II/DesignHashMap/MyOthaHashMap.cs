@@ -113,9 +113,7 @@ namespace DesignHashMap
             {
                 return;
             }
-
             storeList.Remove(current);
-
         }
 
         private static int GetHashKey(int key)

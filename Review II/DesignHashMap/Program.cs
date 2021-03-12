@@ -15,15 +15,16 @@ namespace DesignHashMap
         //void remove(key) removes the key and its corresponding value if the map contains the mapping for the key.
         static void Main()
         {
-            MyHashMap myHashMap = new MyHashMap();
-            myHashMap.put(1, 1); // The map is now [[1,1]]
-            myHashMap.put(2, 2); // The map is now [[1,1], [2,2]]
-            Console.WriteLine(myHashMap.get(1));    // return 1, The map is now [[1,1], [2,2]]
-            Console.WriteLine(myHashMap.get(3));    // return -1 (i.e., not found), The map is now [[1,1], [2,2]]
-            myHashMap.put(2, 1); // The map is now [[1,1], [2,1]] (i.e., update the existing value)
-            Console.WriteLine(myHashMap.get(2));    // return 1, The map is now [[1,1], [2,1]]
-            myHashMap.remove(2); // remove the mapping for 2, The map is now [[1,1]]
-            Console.WriteLine(myHashMap.get(2));    // return -1 (i.e., not found), The map is now [[1,1]]
+            TutorialHashMap bestMap = new TutorialHashMap();
+            //MyHashMap bestMap = new MyHashMap();
+            bestMap.Put(1, 1); // The map is now [[1,1]]
+            bestMap.Put(2, 2); // The map is now [[1,1], [2,2]]
+            Console.WriteLine(bestMap.Get(1));    // return 1, The map is now [[1,1], [2,2]]
+            Console.WriteLine(bestMap.Get(3));    // return -1 (i.e., not found), The map is now [[1,1], [2,2]]
+            bestMap.Put(2, 1); // The map is now [[1,1], [2,1]] (i.e., update the existing value)
+            Console.WriteLine(bestMap.Get(2));    // return 1, The map is now [[1,1], [2,1]]
+            bestMap.Remove(2); // remove the mapping for 2, The map is now [[1,1]]
+            Console.WriteLine(bestMap.Get(2));    // return -1 (i.e., not found), The map is now [[1,1]]
         }
      
         //public Dictionary hashmap = new DictionaryBase();
