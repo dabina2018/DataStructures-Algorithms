@@ -41,13 +41,11 @@ namespace DesignHashMap
                 if (hashmap.ContainsKey(key))
                 {
                     hashmap[key] = value;
-                    
                 }
                 else
                 {
                     hashmap.Add(key, value);
                 }
-                //hashmap.Add(key, value);
             }
             public int get(int key)
             {
@@ -64,14 +62,11 @@ namespace DesignHashMap
             }
             public void remove(int key)
             {
-                if (!hashmap.ContainsKey(key))
+                if (hashmap.ContainsKey(key))
                 {
-                    hashmap.TryGetValue(key, out int value);
+                    hashmap.Remove(key);
                 }
-                else
-                {
-                    hashmap.Remove(hashmap[key]);
-                }
+               
             }
         }
     }
