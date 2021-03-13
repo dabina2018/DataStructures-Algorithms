@@ -1,0 +1,16 @@
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\bin\Debug\net5.0\RemovePalindromicSubsequences.exe
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\bin\Debug\net5.0\RemovePalindromicSubsequences.deps.json
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\bin\Debug\net5.0\RemovePalindromicSubsequences.runtimeconfig.json
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\bin\Debug\net5.0\RemovePalindromicSubsequences.runtimeconfig.dev.json
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\bin\Debug\net5.0\RemovePalindromicSubsequences.dll
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\bin\Debug\net5.0\ref\RemovePalindromicSubsequences.dll
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\bin\Debug\net5.0\RemovePalindromicSubsequences.pdb
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\obj\Debug\net5.0\RemovePalindromicSubsequences.csprojAssemblyReference.cache
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\obj\Debug\net5.0\RemovePalindromicSubsequences.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\obj\Debug\net5.0\RemovePalindromicSubsequences.AssemblyInfoInputs.cache
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\obj\Debug\net5.0\RemovePalindromicSubsequences.AssemblyInfo.cs
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\obj\Debug\net5.0\RemovePalindromicSubsequences.csproj.CoreCompileInputs.cache
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\obj\Debug\net5.0\RemovePalindromicSubsequences.dll
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\obj\Debug\net5.0\ref\RemovePalindromicSubsequences.dll
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\obj\Debug\net5.0\RemovePalindromicSubsequences.pdb
+D:\code\DataStructures-Algorithms\Review II\RemovePalindromicSubsequences\obj\Debug\net5.0\RemovePalindromicSubsequences.genruntimeconfig.cache

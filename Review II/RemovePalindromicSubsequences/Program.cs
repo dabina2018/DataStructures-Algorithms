@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace RemovePalindromicSubsequences
 {
@@ -13,12 +14,52 @@ namespace RemovePalindromicSubsequences
         //A string is called palindrome if is one that reads the same backward as well as forward.
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(RemovePalindromeSub("ababa"));
+            Console.WriteLine(RemovePalindromeSub("abb"));
+            Console.WriteLine(RemovePalindromeSub("baabb"));
         }
-        public int removePalindromeSub(string s)
+        public static int RemovePalindromeSub(string s)
         {
+            int counter = 0;
+            int i = 0; int j = s.Length -1;
+            while (i <= j)
+            {
+                if (s[i] == s[j])
+                {
+                    bool IsPal = Helper(s.Substring(i, j+1));
+                    if (IsPal == true)
+                    {
+                        counter++;
+                        i = j + 1;
+                        j = s.Length-1;
+                    }
+                }                
+                else
+                {
+                    j--;
+                }
+            }
 
-            return -1;
+            return counter;
+        }
+        public static bool Helper(string substr)
+        {
+            int i = 0; int j = substr.Length - 1;
+            bool rtr = true;
+            if (substr.Length == 1)
+            {
+                return true;
+            }
+            while (i <= j)
+            {
+                if (substr[i] == substr[j])
+                {
+                    rtr = true;
+                    i++; j--;
+                }
+                else return false;
+            }
+            return rtr;
         }
     }
 }
