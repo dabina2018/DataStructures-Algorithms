@@ -18,48 +18,72 @@ namespace RemovePalindromicSubsequences
             Console.WriteLine(RemovePalindromeSub("abb"));
             Console.WriteLine(RemovePalindromeSub("baabb"));
         }
+        //public static int counter = 0;
         public static int RemovePalindromeSub(string s)
         {
             int counter = 0;
-            int i = 0; int j = s.Length -1;
+            string tmp = s;
+            int i = 0; int j = s.Length - 1;
+            int mid = s.Length / 2;
+            
             while (i <= j)
             {
-                if (s[i] == s[j])
+                if (tmp == null)
                 {
-                    bool IsPal = Helper(s.Substring(i, j+1));
-                    if (IsPal == true)
-                    {
-                        counter++;
-                        i = j + 1;
-                        j = s.Length-1;
-                    }
-                }                
-                else
-                {
-                    j--;
+                    return counter;
                 }
+                if (tmp.Length == 1)
+                {
+                    counter++;
+                    break;
+                }
+                tmp = Helper(s, mid);
+                counter++;
+                j = tmp.Length - 1;
+                i = 0;
+                mid = tmp.Length / 2;
             }
-
             return counter;
         }
-        public static bool Helper(string substr)
+        public static string Helper(string substr, int mid)
         {
-            int i = 0; int j = substr.Length - 1;
-            bool rtr = true;
-            if (substr.Length == 1)
+            //int counter = 0;
+            //bool rtr = false;
+            int rt = mid;
+            int lt = mid;
+            
+            while (lt > 0 && rt < substr.Length -1)
             {
-                return true;
-            }
-            while (i <= j)
-            {
-                if (substr[i] == substr[j])
+                if (substr[rt+1] == substr[lt -1])
                 {
-                    rtr = true;
-                    i++; j--;
+                    rt += 1;
+                    lt -= 1;
+                    //rtr = true;
                 }
-                else return false;
+                else
+                {
+                    if (substr[mid] == substr[rt + 1])
+                    {
+                        rt += 1;
+                    }
+                    else if (substr[mid] == substr[lt - 1])
+                    {
+                        lt -= 1;
+                    }
+                }
             }
-            return rtr;
+            if (lt == 0 && rt == substr.Length-1)
+            {
+                return "";
+            }
+            else if(lt == 0)
+            {
+                return substr.Remove(lt + 1);
+            }
+            else
+            {
+                return substr.Remove(rt-1);
+            }
         }
     }
 }
