@@ -1,0 +1,16 @@
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\bin\Debug\net5.0\AddOneRowToTree.exe
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\bin\Debug\net5.0\AddOneRowToTree.deps.json
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\bin\Debug\net5.0\AddOneRowToTree.runtimeconfig.json
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\bin\Debug\net5.0\AddOneRowToTree.runtimeconfig.dev.json
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\bin\Debug\net5.0\AddOneRowToTree.dll
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\bin\Debug\net5.0\ref\AddOneRowToTree.dll
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\bin\Debug\net5.0\AddOneRowToTree.pdb
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\obj\Debug\net5.0\AddOneRowToTree.csprojAssemblyReference.cache
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\obj\Debug\net5.0\AddOneRowToTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\obj\Debug\net5.0\AddOneRowToTree.AssemblyInfoInputs.cache
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\obj\Debug\net5.0\AddOneRowToTree.AssemblyInfo.cs
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\obj\Debug\net5.0\AddOneRowToTree.csproj.CoreCompileInputs.cache
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\obj\Debug\net5.0\AddOneRowToTree.dll
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\obj\Debug\net5.0\ref\AddOneRowToTree.dll
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\obj\Debug\net5.0\AddOneRowToTree.pdb
+D:\code\DataStructures-Algorithms\Review II\AddOneRowToTree\obj\Debug\net5.0\AddOneRowToTree.genruntimeconfig.cache
