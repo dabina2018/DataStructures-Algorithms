@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShortEncodingOfWords", "Sho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignHashMap", "DesignHashMap\DesignHashMap.csproj", "{DE325053-A613-460C-85DC-13F8F3E148E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemovePalindromicSubsequences", "RemovePalindromicSubsequences\RemovePalindromicSubsequences.csproj", "{ED130D2D-3C7D-4CB4-9E8E-18D79F01BCB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemovePalindromicSubsequences", "RemovePalindromicSubsequences\RemovePalindromicSubsequences.csproj", "{ED130D2D-3C7D-4CB4-9E8E-18D79F01BCB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddOneRowToTree", "AddOneRowToTree\AddOneRowToTree.csproj", "{0DEEDD57-83B4-4A71-85DC-7A131C0FE577}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{ED130D2D-3C7D-4CB4-9E8E-18D79F01BCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED130D2D-3C7D-4CB4-9E8E-18D79F01BCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED130D2D-3C7D-4CB4-9E8E-18D79F01BCB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DEEDD57-83B4-4A71-85DC-7A131C0FE577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEEDD57-83B4-4A71-85DC-7A131C0FE577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEEDD57-83B4-4A71-85DC-7A131C0FE577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEEDD57-83B4-4A71-85DC-7A131C0FE577}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

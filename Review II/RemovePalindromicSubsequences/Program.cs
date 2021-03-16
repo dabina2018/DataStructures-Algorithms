@@ -14,9 +14,10 @@ namespace RemovePalindromicSubsequences
         //A string is called palindrome if is one that reads the same backward as well as forward.
         static void Main()
         {
-            Console.WriteLine(RemovePalindromeSub("ababa"));
-            Console.WriteLine(RemovePalindromeSub("abb"));
-            Console.WriteLine(RemovePalindromeSub("baabb"));
+            //Console.WriteLine(RemovePalindromeSub("ababa"));
+            //Console.WriteLine(RemovePalindromeSub("abb"));
+            //Console.WriteLine(RemovePalindromeSub("baabb"));
+            Console.WriteLine(PalindromeSolutionII.removePalindromeSub("baabb"));
         }
         //public static int counter = 0;
         public static int RemovePalindromeSub(string s)
