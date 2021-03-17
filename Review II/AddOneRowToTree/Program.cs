@@ -30,44 +30,33 @@ namespace AddOneRowToTree
             PrintTree(root);
             AddOneRow(root, 1, 2);
             PrintTree(root);
-       
         }
         
         public static TreeNode AddOneRow(TreeNode root, int val, int depth)
         {
-            
             TreeNode current = root;
-            TraverseTree(current, 1, depth, val); ;
-
-            //TreeNode current = TraverseTree(root, 1, depth);
-            //int Depth = currDepth;
-            
+            TraverseTree( current, 1, depth, val); 
             return root;
         }
         public static void TraverseTree(TreeNode current, int currDepth, int depth, int val)
         {
-            //TreeNode current = root;
-            if (current != null)
+            if (currDepth == depth - 1)
             {
-                if (currDepth == depth-1)
-                {
-                    TreeNode newNode = new TreeNode(val);
-                    newNode.left = current.left;
-                    newNode.right = null;
-                    current.left = newNode;
-                    newNode.right = current.right;
-                    newNode.left = null;
-                    current.right = newNode;
-                }
-                else
-                {
-                    TraverseTree(current.left, currDepth + 1, depth, val);
-                    TraverseTree(current.right, currDepth + 1, depth, val);
-                }
+                TreeNode newNodeL = new TreeNode(val);
+                newNodeL.left = current.left;
+                newNodeL.right = null;
+                current.left = newNodeL;
+                TreeNode newNodeR = new TreeNode(val);
+                newNodeR.right = current.right;
+                newNodeR.left = null;
+                current.right = newNodeR;
             }
-            //return root;
+            else
+            {
+                TraverseTree(current.left, currDepth + 1, depth, val);
+                TraverseTree(current.right, currDepth + 1, depth, val);
+            }
         }
-
         public static void PrintTree(TreeNode root)
         {
             Console.WriteLine();
@@ -126,3 +115,19 @@ namespace AddOneRowToTree
             newNode.left = null;
             current.right = newNode;
             return root;*/
+
+/*if (currDepth == depth-1)
+                {
+                    TreeNode newNode = new TreeNode(val);
+                    newNode.left = current.left;
+                    newNode.right = null;
+                    current.left = newNode;
+                    newNode.right = current.right;
+                    newNode.left = null;
+                    current.right = newNode;
+                }
+                else
+                {
+                    TraverseTree(current.left, currDepth + 1, depth, val);
+                    TraverseTree(current.right, currDepth + 1, depth, val);
+                }*/
