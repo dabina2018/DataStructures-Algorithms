@@ -6,7 +6,7 @@ namespace Review
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine( IntToRoman(58));
             Console.WriteLine(IntToRoman(2336));
@@ -16,9 +16,9 @@ namespace Review
         }
         public static string IntToRoman(int num)
         {
-            string rtr = "";
-            Helper(num, rtr);
-            return rtr;
+            Console.WriteLine( Helper(num, ""));
+            return Helper(num, "");
+           
         }
         static public string Helper(int tmp, string rtr )
         {
@@ -31,7 +31,7 @@ namespace Review
                 new KeyValuePair<string, int>("D", 500), new KeyValuePair<string, int>("CM", 900),
                 new KeyValuePair<string, int>("M", 1000)};
 
-            for (int j = romanNums.Count-1; j > 0; j--)
+            for (int j = romanNums.Count-1; j >= 0; j--)
             {
                 //2000
                 int num = romanNums[j].Value;
