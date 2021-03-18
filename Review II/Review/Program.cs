@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 
 namespace Review
 {
@@ -7,61 +8,40 @@ namespace Review
     {
         static void Main(string[] args)
         {
-            //IntToRoman(58);
-           // IntToRoman(1994);
-            IntToRoman(3);
+            Console.WriteLine( IntToRoman(58));
+            Console.WriteLine(IntToRoman(2336));
+            Console.WriteLine(IntToRoman(1994));
+            Console.WriteLine(IntToRoman(8));
+            Console.WriteLine(IntToRoman(9));
         }
         public static string IntToRoman(int num)
         {
-            //create a hashset of roman numerals and thier num equivelant
-            Hashtable ht = new Hashtable() { { "I", 1 }, { "V", 5 }, { "X", 10 }, { "L", 50 }, { "C", 100 }, 
-                { "D", 500 }, { "M", 1000 }, { "IV", 4 }, { "IX", 9 }, { "XL", 40 }, { "XC", 90 }, { "CD", 400 }, { "CM", 900 } };
-            
-
-            //divide the input number by value of each dictionary entry
-            int val = num;
             string rtr = "";
-            int div = 1000;
-            int tmp = 0;
+            Helper(num, rtr);
+            return rtr;
+        }
+        static public string Helper(int tmp, string rtr )
+        {
+            List<KeyValuePair<string, int>> romanNums = new List<KeyValuePair<string, int>>{
+                new KeyValuePair<string, int>("I", 1), new KeyValuePair<string, int>("IV", 4),
+                new KeyValuePair<string, int>("V", 5), new KeyValuePair<string, int>("IX", 9), 
+                new KeyValuePair<string, int>("X", 10), new KeyValuePair<string, int>("XL", 40),
+                new KeyValuePair<string, int>("L", 50), new KeyValuePair<string, int>("XC", 90),
+                new KeyValuePair<string, int>("C", 100), new KeyValuePair<string, int>("CD", 400),
+                new KeyValuePair<string, int>("D", 500), new KeyValuePair<string, int>("CM", 900),
+                new KeyValuePair<string, int>("M", 1000)};
 
-            while (div > 0)
+            for (int j = romanNums.Count-1; j > 0; j--)
             {
-                if (val / div < 1)
+                //2000
+                int num = romanNums[j].Value;
+                while (tmp / num >= 1)
                 {
-                    div = div / 10;
-                }
-                else
-                {
-                    tmp = (val / div); // add var for divisor
-                    val = val % div;
-                   
-                    foreach (object key in ht.Keys)
-                    {
-                        if (tmp * div == (int)ht[key])
-                        {
-                            rtr = rtr + key;         // add var for string
-                            break;
-                        }
-                    }
-                    if (tmp < 10)
-                    {
-                        if (tmp / 5 == 1)
-                        {
-                            tmp -= 5;
-                            rtr = rtr + 'V';
-                        }
-
-                        for (int i = 0; i < tmp; i++)
-                        {
-                            rtr = rtr + 'I';
-                        }
-                    }
-                    
-
-                    div = div / 10;
+                    rtr = rtr + romanNums[j].Key;
+                    tmp = tmp - romanNums[j].Value;
                 }
             }
-            return rtr;
+            return rtr;            
         }
     }
 }
