@@ -35,7 +35,16 @@ namespace AddOneRowToTree
         public static TreeNode AddOneRow(TreeNode root, int val, int depth)
         {
             TreeNode current = root;
-            TraverseTree( current, 1, depth, val); 
+            if (root == null){ return root; }
+            else if (depth == 1)
+            {
+                TreeNode newNodeL = new TreeNode(val);
+                newNodeL.left = current.left;               
+            }
+            else
+            {
+                TraverseTree(current, 1, depth, val);
+            }
             return root;
         }
         public static void TraverseTree(TreeNode current, int currDepth, int depth, int val)
