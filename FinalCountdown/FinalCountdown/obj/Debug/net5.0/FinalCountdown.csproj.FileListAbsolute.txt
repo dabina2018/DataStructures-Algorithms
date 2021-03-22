@@ -1,0 +1,16 @@
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\bin\Debug\net5.0\FinalCountdown.exe
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\bin\Debug\net5.0\FinalCountdown.deps.json
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\bin\Debug\net5.0\FinalCountdown.runtimeconfig.json
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\bin\Debug\net5.0\FinalCountdown.runtimeconfig.dev.json
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\bin\Debug\net5.0\FinalCountdown.dll
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\bin\Debug\net5.0\ref\FinalCountdown.dll
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\bin\Debug\net5.0\FinalCountdown.pdb
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\obj\Debug\net5.0\FinalCountdown.csprojAssemblyReference.cache
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\obj\Debug\net5.0\FinalCountdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\obj\Debug\net5.0\FinalCountdown.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\obj\Debug\net5.0\FinalCountdown.AssemblyInfo.cs
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\obj\Debug\net5.0\FinalCountdown.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\obj\Debug\net5.0\FinalCountdown.dll
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\obj\Debug\net5.0\ref\FinalCountdown.dll
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\obj\Debug\net5.0\FinalCountdown.pdb
+C:\Users\User01\source\repos\FinalCountdown\FinalCountdown\obj\Debug\net5.0\FinalCountdown.genruntimeconfig.cache

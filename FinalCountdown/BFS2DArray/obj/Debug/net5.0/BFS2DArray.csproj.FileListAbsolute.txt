@@ -1,0 +1,16 @@
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\bin\Debug\net5.0\BFS2DArray.exe
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\bin\Debug\net5.0\BFS2DArray.deps.json
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\bin\Debug\net5.0\BFS2DArray.runtimeconfig.json
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\bin\Debug\net5.0\BFS2DArray.runtimeconfig.dev.json
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\bin\Debug\net5.0\BFS2DArray.dll
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\bin\Debug\net5.0\ref\BFS2DArray.dll
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\bin\Debug\net5.0\BFS2DArray.pdb
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\obj\Debug\net5.0\BFS2DArray.csprojAssemblyReference.cache
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\obj\Debug\net5.0\BFS2DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\obj\Debug\net5.0\BFS2DArray.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\obj\Debug\net5.0\BFS2DArray.AssemblyInfo.cs
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\obj\Debug\net5.0\BFS2DArray.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\obj\Debug\net5.0\BFS2DArray.dll
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\obj\Debug\net5.0\ref\BFS2DArray.dll
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\obj\Debug\net5.0\BFS2DArray.pdb
+C:\Users\User01\source\repos\FinalCountdown\BFS2DArray\obj\Debug\net5.0\BFS2DArray.genruntimeconfig.cache

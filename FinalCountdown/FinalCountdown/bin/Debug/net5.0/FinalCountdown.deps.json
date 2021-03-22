@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FinalCountdown/1.0.0": {
+        "runtime": {
+          "FinalCountdown.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalCountdown/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
