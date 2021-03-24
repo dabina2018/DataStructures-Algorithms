@@ -11,8 +11,8 @@ namespace CoinChange
         //You may assume that you have an infinite number of each kind of coin.
         static void Main()
         {
-            int[] coins = { 2 };
-            CoinChange(coins, 3); //output = 3 Explanation:11 = 5 + 5 + 1
+            int[] coins = { 1 };
+            Console.WriteLine(CoinChange(coins, 2)); //output = 3 Explanation:11 = 5 + 5 + 1
             //Input: coins = [2], amount = 3       Output: -1
             //Input: coins = [1], amount = 0        Output: 0
             //Input: coins = [1], amount = 1        Output: 1
