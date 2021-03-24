@@ -27,7 +27,7 @@ namespace CoinChange
             Array.Sort(coins);
             while (amt > 0)
             {
-                while (i >= 0)
+                if (i >= 0 && amt != 0)
                 {
                     if (amt - coins[i] < 0)
                     {
@@ -39,16 +39,15 @@ namespace CoinChange
                         rtr += 1;
                     }
                 }
+                else
+                {
+                    return -1;
+                }
                 
             }
-            if (amt == 0)
-            {
-                return rtr;
-            }
-            else
-            {
-                return -1;
-            }
+            
+            return rtr;
+           
            
         }
     }
