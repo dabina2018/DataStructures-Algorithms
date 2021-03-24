@@ -1,0 +1,16 @@
+D:\code\DataStructures-Algorithms\Review II\CoinChange\bin\Debug\net5.0\CoinChange.exe
+D:\code\DataStructures-Algorithms\Review II\CoinChange\bin\Debug\net5.0\CoinChange.deps.json
+D:\code\DataStructures-Algorithms\Review II\CoinChange\bin\Debug\net5.0\CoinChange.runtimeconfig.json
+D:\code\DataStructures-Algorithms\Review II\CoinChange\bin\Debug\net5.0\CoinChange.runtimeconfig.dev.json
+D:\code\DataStructures-Algorithms\Review II\CoinChange\bin\Debug\net5.0\CoinChange.dll
+D:\code\DataStructures-Algorithms\Review II\CoinChange\bin\Debug\net5.0\ref\CoinChange.dll
+D:\code\DataStructures-Algorithms\Review II\CoinChange\bin\Debug\net5.0\CoinChange.pdb
+D:\code\DataStructures-Algorithms\Review II\CoinChange\obj\Debug\net5.0\CoinChange.csprojAssemblyReference.cache
+D:\code\DataStructures-Algorithms\Review II\CoinChange\obj\Debug\net5.0\CoinChange.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\DataStructures-Algorithms\Review II\CoinChange\obj\Debug\net5.0\CoinChange.AssemblyInfoInputs.cache
+D:\code\DataStructures-Algorithms\Review II\CoinChange\obj\Debug\net5.0\CoinChange.AssemblyInfo.cs
+D:\code\DataStructures-Algorithms\Review II\CoinChange\obj\Debug\net5.0\CoinChange.csproj.CoreCompileInputs.cache
+D:\code\DataStructures-Algorithms\Review II\CoinChange\obj\Debug\net5.0\CoinChange.dll
+D:\code\DataStructures-Algorithms\Review II\CoinChange\obj\Debug\net5.0\ref\CoinChange.dll
+D:\code\DataStructures-Algorithms\Review II\CoinChange\obj\Debug\net5.0\CoinChange.pdb
+D:\code\DataStructures-Algorithms\Review II\CoinChange\obj\Debug\net5.0\CoinChange.genruntimeconfig.cache
