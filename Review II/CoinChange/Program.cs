@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections;
+using System.Collections.Generic;
 
 namespace CoinChange
 {
@@ -11,15 +11,75 @@ namespace CoinChange
         //You may assume that you have an infinite number of each kind of coin.
         static void Main()
         {
-            int[] coins = { 1 };
-            Console.WriteLine(CoinChange(coins, 2)); //output = 3 Explanation:11 = 5 + 5 + 1
-            //Input: coins = [2], amount = 3       Output: -1
-            //Input: coins = [1], amount = 0        Output: 0
-            //Input: coins = [1], amount = 1        Output: 1
-            //Input: coins = [1], amount = 2        Output: 2
+            //int[] coins = { 186, 419, 83, 408 };
+            int[] coins = { 5,2,1 };
+            Console.WriteLine(CoinChange(coins, 11)); 
+            //output = 3 Explanation:11 = 5 + 5 + 1
+            //Input: [186,419,83,408] output          6249
         }
-
+        
         public static int CoinChange(int[] coins, int amount)
+        {
+            if (amount == 0)
+            {
+                return 0;
+            }
+            if (amount < 0)
+            {
+                return -1;
+            }
+            else
+            {
+                //Array.Sort(coins);
+                //Array.Reverse(coins);
+                coinsArr = coins;
+                target = amount;
+                return Helper(amount, 0);
+            }
+        }
+        static Dictionary<int, int> cache = new() { { 0, -1 } };
+        static int target;
+        static int[] coinsArr;
+
+        public static int Helper(int amt, int moves)
+        {
+            //int movesp;
+            //int amt = target;
+            if (cache.TryGetValue(amt, out int cachedVal))
+            {
+                return cachedVal;
+            }
+            foreach (int coin in coinsArr)
+            {
+                if (amt - coin >= 0)
+                {
+                    amt = amt - coin;
+                    moves++;
+                    if (amt == 0)
+                    {
+                        Console.WriteLine(target +"  " + moves);
+                        if (cache.TryGetValue(target, out cachedVal))
+                        {
+                            if (moves < cachedVal)
+                            {
+                                cache[target] = moves;
+                            }
+                        }
+                        else
+                        {
+                            cache.Add(11, 3);
+                        }
+                        //cache[target] = moves;
+                    }
+                    else if(amt > 0)
+                    {
+                        Helper(amt, moves);
+                    }
+                }
+            }
+            return cache[target];
+        }
+        public static int CoinChangeII(int[] coins, int amount)
         {
             int rtr = 0;
             int amt = amount;
@@ -35,7 +95,7 @@ namespace CoinChange
                     }
                     else
                     {
-                        amt = amt - coins[i];
+                        amt -= coins[i];
                         rtr += 1;
                     }
                 }
@@ -43,12 +103,8 @@ namespace CoinChange
                 {
                     return -1;
                 }
-                
             }
-            
             return rtr;
-           
-           
         }
     }
 }

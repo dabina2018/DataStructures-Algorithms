@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User01\\source\\repos\\FinalCountdown\\FinalCountdown\\FinalCountdown.csproj": {}
+    "D:\\code\\DataStructures-Algorithms\\FinalCountdown\\FinalCountdown\\FinalCountdown.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User01\\source\\repos\\FinalCountdown\\FinalCountdown\\FinalCountdown.csproj": {
+    "D:\\code\\DataStructures-Algorithms\\FinalCountdown\\FinalCountdown\\FinalCountdown.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User01\\source\\repos\\FinalCountdown\\FinalCountdown\\FinalCountdown.csproj",
+        "projectUniqueName": "D:\\code\\DataStructures-Algorithms\\FinalCountdown\\FinalCountdown\\FinalCountdown.csproj",
         "projectName": "FinalCountdown",
-        "projectPath": "C:\\Users\\User01\\source\\repos\\FinalCountdown\\FinalCountdown\\FinalCountdown.csproj",
+        "projectPath": "D:\\code\\DataStructures-Algorithms\\FinalCountdown\\FinalCountdown\\FinalCountdown.csproj",
         "packagesPath": "C:\\Users\\User01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User01\\source\\repos\\FinalCountdown\\FinalCountdown\\obj\\",
+        "outputPath": "D:\\code\\DataStructures-Algorithms\\FinalCountdown\\FinalCountdown\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User01\\AppData\\Roaming\\NuGet\\NuGet.Config",

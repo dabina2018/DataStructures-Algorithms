@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User01\\source\\repos\\FinalCountdown\\BFS2DArray\\BFS2DArray.csproj": {}
+    "D:\\code\\DataStructures-Algorithms\\FinalCountdown\\BFS2DArray\\BFS2DArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User01\\source\\repos\\FinalCountdown\\BFS2DArray\\BFS2DArray.csproj": {
+    "D:\\code\\DataStructures-Algorithms\\FinalCountdown\\BFS2DArray\\BFS2DArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User01\\source\\repos\\FinalCountdown\\BFS2DArray\\BFS2DArray.csproj",
+        "projectUniqueName": "D:\\code\\DataStructures-Algorithms\\FinalCountdown\\BFS2DArray\\BFS2DArray.csproj",
         "projectName": "BFS2DArray",
-        "projectPath": "C:\\Users\\User01\\source\\repos\\FinalCountdown\\BFS2DArray\\BFS2DArray.csproj",
+        "projectPath": "D:\\code\\DataStructures-Algorithms\\FinalCountdown\\BFS2DArray\\BFS2DArray.csproj",
         "packagesPath": "C:\\Users\\User01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User01\\source\\repos\\FinalCountdown\\BFS2DArray\\obj\\",
+        "outputPath": "D:\\code\\DataStructures-Algorithms\\FinalCountdown\\BFS2DArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User01\\AppData\\Roaming\\NuGet\\NuGet.Config",
