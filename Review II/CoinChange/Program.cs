@@ -11,9 +11,9 @@ namespace CoinChange
         //You may assume that you have an infinite number of each kind of coin.
         static void Main()
         {
-            //int[] coins = { 186, 419, 83, 408 };
-            int[] coins = { 5,2,1 };
-            Console.WriteLine(CoinChange(coins, 11)); 
+            int[] coins = { 186, 419, 83, 408 };
+            //int[] coins = { 5,2,1 };
+            Console.WriteLine(CoinChange(coins, 6249)); 
             //output = 3 Explanation:11 = 5 + 5 + 1
             //Input: [186,419,83,408] output          6249
         }
@@ -30,8 +30,8 @@ namespace CoinChange
             }
             else
             {
-                //Array.Sort(coins);
-                //Array.Reverse(coins);
+                Array.Sort(coins);
+                Array.Reverse(coins);
                 coinsArr = coins;
                 target = amount;
                 return Helper(amount, 0);
@@ -43,7 +43,7 @@ namespace CoinChange
 
         public static int Helper(int amt, int moves)
         {
-            //int movesp;
+            //int moves;
             //int amt = target;
             if (cache.TryGetValue(amt, out int cachedVal))
             {
@@ -52,7 +52,7 @@ namespace CoinChange
             foreach (int coin in coinsArr)
             {
                 if (amt - coin >= 0)
-                {
+                { 
                     amt = amt - coin;
                     moves++;
                     if (amt == 0)
@@ -77,7 +77,14 @@ namespace CoinChange
                     }
                 }
             }
-            return cache[target];
+            if (cache.ContainsKey(target))
+            {
+                return cache[target];
+            }
+            else
+            {
+                return -1;
+            }
         }
         public static int CoinChangeII(int[] coins, int amount)
         {
