@@ -1,0 +1,16 @@
+D:\code\DataStructures-Algorithms\Review II\BinaryString\bin\Debug\net5.0\BinaryString.exe
+D:\code\DataStructures-Algorithms\Review II\BinaryString\bin\Debug\net5.0\BinaryString.deps.json
+D:\code\DataStructures-Algorithms\Review II\BinaryString\bin\Debug\net5.0\BinaryString.runtimeconfig.json
+D:\code\DataStructures-Algorithms\Review II\BinaryString\bin\Debug\net5.0\BinaryString.runtimeconfig.dev.json
+D:\code\DataStructures-Algorithms\Review II\BinaryString\bin\Debug\net5.0\BinaryString.dll
+D:\code\DataStructures-Algorithms\Review II\BinaryString\bin\Debug\net5.0\ref\BinaryString.dll
+D:\code\DataStructures-Algorithms\Review II\BinaryString\bin\Debug\net5.0\BinaryString.pdb
+D:\code\DataStructures-Algorithms\Review II\BinaryString\obj\Debug\net5.0\BinaryString.csprojAssemblyReference.cache
+D:\code\DataStructures-Algorithms\Review II\BinaryString\obj\Debug\net5.0\BinaryString.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\DataStructures-Algorithms\Review II\BinaryString\obj\Debug\net5.0\BinaryString.AssemblyInfoInputs.cache
+D:\code\DataStructures-Algorithms\Review II\BinaryString\obj\Debug\net5.0\BinaryString.AssemblyInfo.cs
+D:\code\DataStructures-Algorithms\Review II\BinaryString\obj\Debug\net5.0\BinaryString.csproj.CoreCompileInputs.cache
+D:\code\DataStructures-Algorithms\Review II\BinaryString\obj\Debug\net5.0\BinaryString.dll
+D:\code\DataStructures-Algorithms\Review II\BinaryString\obj\Debug\net5.0\ref\BinaryString.dll
+D:\code\DataStructures-Algorithms\Review II\BinaryString\obj\Debug\net5.0\BinaryString.pdb
+D:\code\DataStructures-Algorithms\Review II\BinaryString\obj\Debug\net5.0\BinaryString.genruntimeconfig.cache
