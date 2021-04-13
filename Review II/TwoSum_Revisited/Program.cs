@@ -3,19 +3,47 @@
 
 namespace TwoSum_Revisited
 {
-    // Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
-    // You may assume that each input would have exactly one solution, and you may not use the same element twice.
-    // You can return the answer in any order.
+    // Given an array of integers nums and an integer target,
+    // return indices of the two numbers such that they add up to target.
+    // You may assume that each input would have exactly one solution,
+    // and you may not use the same element twice. You can return the answer in any order.
     class Program
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            int[] nums = { 3,2,4 };
+            TwoSum(nums, 6);
         }
-        public int[] TwoSum(int[] nums, int target)
+        static public int[] TwoSum(int[] nums, int target)
         {
-            int[] rtrArr = new int[10];
+            //sort the array
+            //create two pointers at each end of array
+            // add int at each pointer
+            // if the sum is the target return 
+            // if the sum is less than target, move L pointer
+            // if the sum is greater than target, move R pointer
+            Array.Sort(nums);
+            int rPoint = nums.Length - 1;
+            int lPoint = 0;
+            int[] rtrArr = new int[2];
 
+            while (lPoint < rPoint)
+            {
+                if (nums[rPoint] + nums[lPoint] == target)
+                {
+                    return new int[] { lPoint, rPoint };
+                }
+                else if (nums[rPoint] + nums[lPoint] < target)
+                {
+                    lPoint++;
+                }
+                else if (nums[rPoint] + nums[lPoint] > target)
+                {
+                    rPoint--;
+                }
+            }
+           
+            
             return rtrArr;
         }
 
