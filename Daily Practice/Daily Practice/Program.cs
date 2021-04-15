@@ -12,7 +12,7 @@ namespace Daily_Practice
             int[] input1 = { 1, 2, 3, 4 };
             int[] input2 = { 1, 1,1,1 };
             int[] input3 = { 1, 3,1,2,10,1 };
-            Console.WriteLine(RunningSum(input1));
+            Console.WriteLine(RunningSumII(input1));
         }
         
         static public int[] RunningSum(int[] nums)
@@ -36,6 +36,16 @@ namespace Daily_Practice
             }
             return nums;
         }
-        
+
+        static public int[] RunningSumII(int[] nums)
+        {
+            int sum = nums[0];
+            for (var i = 1; i < nums.Length; i++)
+            {
+                sum += nums[i];
+                nums[i] = sum;
+            }
+            return nums;
+        }
     }
 }
