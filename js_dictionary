@@ -1,0 +1,41 @@
+//https://www.poftut.com/
+
+//create dictionary with object
+    //var dict = Object()
+    // OR var dict = {}
+//
+/*
+var dict ={
+  1:'one',
+  2:'two',
+  3:'three',
+  'ten':10
+};
+
+dict['five'] = 5;
+dict ['thirty'] = 30;
+//dict.'7' = "seven";
+dict.eight = 8;
+
+//iterate over dictionary
+for (var k in dict) {
+  console.log(k, dict[k]);
+}
+//check if key exists
+if (dict.five) {            //OR dict[10]
+  console.log(dict.five);
+}
+*/
+//------------------------------------------------------------------------------
+  const cards = [
+    // prefix | length | network
+    {'prefix':'38', 'length':14, 'network': "Diner's Club"},
+    {'prefix': '39', 'length': 14, 'network': "Diner's Club"},
+    {'prefix' : '34', 'length': 15, 'network': "American Express"},
+    {'prefix': '37', 'length': 15, 'network': "American Express"}
+  ];
+
+//  console.log(cards);
+
+//cards.count();
+console.log(cards[0]['prefix']);

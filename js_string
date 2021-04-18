@@ -1,0 +1,47 @@
+https://www.w3schools.com/js/js_string_methods.asp
+
+var txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+//console.log(txt.length);
+
+//---- INDEX OF ----//
+//console.log(txt.indexOf("Z"));
+//console.log(txt.lastIndexOf("ABC"));
+//console.log(txt.lastIndexOf("John"));
+//var pos = txt.indexOf("ABC", 15);
+
+//-----SEARCH------////
+//console.log(txt.search("IJK")); // returns position of match
+
+//-----STRING SLICE-----//
+var str = "Apple, Banana, Kiwi";
+/*
+console.log(str.slice(7,13));
+console.log(str.slice(7));
+console.log(str.slice(-12)); //counting from the end
+*/
+
+/* SUBSTRING*/
+
+console.log(str.substr(0, 2));
+console.log(str.substr(7));
+console.log(str.substr(-4));
+
+/*
+str = "Please visit Microsoft and Microsoft!";
+console.log(str.replace("Microsoft", "W3Schools"));
+console.log(str.toUpperCase()); //regular expression
+console.log(str.toLowerCase());
+
+
+//concat method
+var text1 = "Hello";
+var text2 = "World";
+console.log(text1.concat(" ", text2));
+//"Hello" + " " + "World!";
+console.log("Hello".concat(" ", "World!");
+
+
+var str = "       Hello World!        ";
+alert(str.trim());
+alert(str.replace(/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g, '')); //same result, reg expression
+*/
