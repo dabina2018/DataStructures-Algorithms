@@ -1,0 +1,16 @@
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\bin\Debug\net5.0\RichestCustomer.exe
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\bin\Debug\net5.0\RichestCustomer.deps.json
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\bin\Debug\net5.0\RichestCustomer.runtimeconfig.json
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\bin\Debug\net5.0\RichestCustomer.runtimeconfig.dev.json
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\bin\Debug\net5.0\RichestCustomer.dll
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\bin\Debug\net5.0\ref\RichestCustomer.dll
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\bin\Debug\net5.0\RichestCustomer.pdb
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\obj\Debug\net5.0\RichestCustomer.csprojAssemblyReference.cache
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\obj\Debug\net5.0\RichestCustomer.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\obj\Debug\net5.0\RichestCustomer.AssemblyInfoInputs.cache
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\obj\Debug\net5.0\RichestCustomer.AssemblyInfo.cs
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\obj\Debug\net5.0\RichestCustomer.csproj.CoreCompileInputs.cache
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\obj\Debug\net5.0\RichestCustomer.dll
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\obj\Debug\net5.0\ref\RichestCustomer.dll
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\obj\Debug\net5.0\RichestCustomer.pdb
+D:\code\DataStructures-Algorithms\Daily Practice\RichestCustomer\obj\Debug\net5.0\RichestCustomer.genruntimeconfig.cache
