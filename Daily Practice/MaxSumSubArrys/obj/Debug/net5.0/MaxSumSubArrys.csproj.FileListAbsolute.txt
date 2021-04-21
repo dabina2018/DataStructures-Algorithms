@@ -1,0 +1,16 @@
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\bin\Debug\net5.0\MaxSumSubArrys.exe
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\bin\Debug\net5.0\MaxSumSubArrys.deps.json
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\bin\Debug\net5.0\MaxSumSubArrys.runtimeconfig.json
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\bin\Debug\net5.0\MaxSumSubArrys.runtimeconfig.dev.json
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\bin\Debug\net5.0\MaxSumSubArrys.dll
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\bin\Debug\net5.0\ref\MaxSumSubArrys.dll
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\bin\Debug\net5.0\MaxSumSubArrys.pdb
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\obj\Debug\net5.0\MaxSumSubArrys.csprojAssemblyReference.cache
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\obj\Debug\net5.0\MaxSumSubArrys.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\obj\Debug\net5.0\MaxSumSubArrys.AssemblyInfoInputs.cache
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\obj\Debug\net5.0\MaxSumSubArrys.AssemblyInfo.cs
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\obj\Debug\net5.0\MaxSumSubArrys.csproj.CoreCompileInputs.cache
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\obj\Debug\net5.0\MaxSumSubArrys.dll
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\obj\Debug\net5.0\ref\MaxSumSubArrys.dll
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\obj\Debug\net5.0\MaxSumSubArrys.pdb
+D:\code\DataStructures-Algorithms\Daily Practice\MaxSumSubArrys\obj\Debug\net5.0\MaxSumSubArrys.genruntimeconfig.cache

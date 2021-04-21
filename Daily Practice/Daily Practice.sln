@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Daily Practice", "Daily Practice\Daily Practice.csproj", "{92600CC6-3FD8-4177-A48F-2D8043B70176}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichestCustomer", "RichestCustomer\RichestCustomer.csproj", "{F559D217-36E0-429D-B58E-DB2F386E990F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RichestCustomer", "RichestCustomer\RichestCustomer.csproj", "{F559D217-36E0-429D-B58E-DB2F386E990F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSumSubArrys", "MaxSumSubArrys\MaxSumSubArrys.csproj", "{FFD39A6E-1978-4054-8D67-5099957C96F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F559D217-36E0-429D-B58E-DB2F386E990F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F559D217-36E0-429D-B58E-DB2F386E990F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F559D217-36E0-429D-B58E-DB2F386E990F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD39A6E-1978-4054-8D67-5099957C96F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD39A6E-1978-4054-8D67-5099957C96F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD39A6E-1978-4054-8D67-5099957C96F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD39A6E-1978-4054-8D67-5099957C96F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
