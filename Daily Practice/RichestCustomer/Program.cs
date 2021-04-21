@@ -13,25 +13,40 @@ namespace RichestCustomer
         {
             int[] row0 = { 1, 2, 3 };
             int[] row1 = { 3, 2, 1 };
-            int[][] accounts = {row0 , row1 };
+            int[][] accounts = { row0, row1 };
             maximumWealth(accounts);
         }
         static public int maximumWealth(int[][] accounts)
         {
             int maxSum = 0;
-            for (int i = 0; i < accounts[i].Length; i++) //0= row
+            for (int i = 0; i < accounts.Length; i++) //0= row
             {
                 int currSum = 0;
-                for (int j = 0; j < accounts.GetLength(0); j++)
+                for (int j = 0; j < accounts[0].Length; j++)
                 {
                     currSum += accounts[i][j];
                 }
-                if(currSum > maxSum)
+                if (currSum > maxSum)
                 {
                     maxSum = currSum;
                 }
             }
             return maxSum;
+        }
+
+        static public int MaximumWealthII(int[][] accounts)
+        {
+            int res = 0;
+            for (int i = 0; i < accounts.Length; i++)
+            {
+                int temp = 0;
+                for (int j = 0; j < accounts[i].Length; j++)
+                {
+                    temp += accounts[i][j];
+                }
+                res = Math.Max(res, temp);
+            }
+            return res;
         }
     }
 }
